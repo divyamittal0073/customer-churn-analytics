@@ -1,0 +1,15 @@
+feature,importance
+app_logins_last_30d,0.24263522
+frequency,0.1545097
+tenure_days,0.11790294
+monetary,0.09125307
+avg_order_value,0.05045135
+email_open_rate,0.045365814
+avg_support_csat,0.04505982
+age,0.041384388
+M_score,0.03816798
+F_score,0.03743447
+region_enc,0.03715322
+support_tickets_last_90d,0.035602022
+gender_enc,0.03512471
+acquisition_channel_enc,0.027955374

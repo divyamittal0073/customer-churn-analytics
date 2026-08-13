@@ -1,0 +1,10 @@
+segment,customers,avg_monetary,avg_churn_probability,high_risk_count
+At Risk,307,624.98,0.33,78
+Champions,332,1216.07,0.05,1
+Hibernating,578,53.81,0.54,299
+Lost,30,231.35,0.74,24
+Loyal Customers,335,678.27,0.12,3
+Needs Attention,8,190.87,0.2,0
+New Customers,223,154.71,0.1,7
+Others,70,235.16,0.22,2
+Promising,117,108.51,0.18,7

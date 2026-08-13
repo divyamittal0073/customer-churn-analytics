@@ -1,0 +1,2001 @@
+customer_id,signup_date,age,gender,region,acquisition_channel
+CUST00001,2025-10-27,45,Other,North,Organic Search
+CUST00002,2024-04-19,56,Other,East,Paid Ads
+CUST00003,2025-08-29,56,Male,South,Organic Search
+CUST00004,2025-11-09,47,Other,Central,Organic Search
+CUST00005,2024-05-28,32,Other,West,Organic Search
+CUST00006,2025-01-02,32,Male,North,Paid Ads
+CUST00007,2024-07-22,25,Male,Central,Email Campaign
+CUST00008,2024-09-13,41,Male,Central,Paid Ads
+CUST00009,2025-07-03,38,Other,Central,Social Media
+CUST00010,2024-02-02,20,Male,West,Email Campaign
+CUST00011,2024-04-29,30,Female,North,Paid Ads
+CUST00012,2024-11-04,34,Other,West,Referral
+CUST00013,2024-12-12,47,Female,South,Paid Ads
+CUST00014,2024-12-30,23,Female,North,Organic Search
+CUST00015,2024-05-09,46,Female,North,Referral
+CUST00016,2024-05-17,40,Female,Central,Referral
+CUST00017,2024-08-15,20,Male,West,Email Campaign
+CUST00018,2024-09-06,29,Male,West,Organic Search
+CUST00019,2025-01-14,41,Other,East,Email Campaign
+CUST00020,2025-11-21,33,Female,Central,Paid Ads
+CUST00021,2024-05-19,50,Other,North,Organic Search
+CUST00022,2024-02-21,49,Other,South,Referral
+CUST00023,2024-03-22,41,Male,South,Organic Search
+CUST00024,2024-02-14,49,Female,East,Social Media
+CUST00025,2024-08-15,47,Other,East,Paid Ads
+CUST00026,2024-11-26,54,Female,East,Paid Ads
+CUST00027,2025-05-14,42,Other,East,Organic Search
+CUST00028,2024-12-11,56,Other,South,Email Campaign
+CUST00029,2024-10-26,39,Other,South,Paid Ads
+CUST00030,2024-12-21,34,Female,West,Referral
+CUST00031,2024-06-23,55,Other,Central,Paid Ads
+CUST00032,2024-02-23,31,Other,East,Organic Search
+CUST00033,2024-04-22,48,Male,North,Referral
+CUST00034,2024-05-10,41,Female,East,Organic Search
+CUST00035,2025-01-12,29,Male,Central,Referral
+CUST00036,2024-10-25,34,Male,West,Social Media
+CUST00037,2025-08-25,38,Other,West,Paid Ads
+CUST00038,2024-06-04,35,Female,South,Paid Ads
+CUST00039,2024-08-24,36,Other,Central,Email Campaign
+CUST00040,2025-05-07,42,Female,Central,Social Media
+CUST00041,2025-11-11,18,Other,West,Referral
+CUST00042,2024-01-26,37,Male,South,Email Campaign
+CUST00043,2024-12-17,35,Female,North,Organic Search
+CUST00044,2024-12-08,41,Male,South,Paid Ads
+CUST00045,2025-12-16,51,Other,West,Email Campaign
+CUST00046,2025-05-24,47,Male,West,Social Media
+CUST00047,2025-03-18,45,Other,West,Email Campaign
+CUST00048,2025-08-07,64,Female,Central,Organic Search
+CUST00049,2024-05-10,39,Other,North,Email Campaign
+CUST00050,2024-01-12,31,Female,East,Organic Search
+CUST00051,2024-06-07,25,Female,West,Paid Ads
+CUST00052,2024-09-27,43,Female,North,Referral
+CUST00053,2025-12-22,28,Other,South,Email Campaign
+CUST00054,2025-09-06,34,Male,East,Email Campaign
+CUST00055,2025-04-06,40,Other,South,Paid Ads
+CUST00056,2024-06-18,53,Female,South,Email Campaign
+CUST00057,2025-09-20,41,Other,North,Email Campaign
+CUST00058,2024-09-01,47,Female,West,Organic Search
+CUST00059,2025-09-19,41,Male,East,Referral
+CUST00060,2024-02-28,42,Male,North,Paid Ads
+CUST00061,2025-09-20,41,Other,North,Organic Search
+CUST00062,2024-04-22,29,Other,West,Organic Search
+CUST00063,2025-04-29,23,Other,South,Paid Ads
+CUST00064,2024-06-15,45,Other,West,Email Campaign
+CUST00065,2025-06-06,49,Male,East,Email Campaign
+CUST00066,2025-02-01,42,Other,West,Paid Ads
+CUST00067,2024-09-14,27,Other,South,Referral
+CUST00068,2025-12-07,28,Female,East,Social Media
+CUST00069,2025-03-17,38,Other,West,Organic Search
+CUST00070,2024-12-10,55,Male,South,Organic Search
+CUST00071,2025-05-20,25,Female,North,Email Campaign
+CUST00072,2025-11-04,43,Other,South,Email Campaign
+CUST00073,2024-09-16,43,Male,North,Organic Search
+CUST00074,2025-11-10,37,Other,North,Paid Ads
+CUST00075,2024-09-26,32,Male,North,Referral
+CUST00076,2025-01-24,48,Male,Central,Paid Ads
+CUST00077,2025-11-19,27,Female,West,Paid Ads
+CUST00078,2025-11-24,39,Other,South,Email Campaign
+CUST00079,2024-12-28,42,Other,West,Paid Ads
+CUST00080,2025-05-06,44,Female,West,Paid Ads
+CUST00081,2024-07-24,44,Male,North,Social Media
+CUST00082,2025-10-01,44,Female,West,Social Media
+CUST00083,2024-12-17,44,Female,North,Organic Search
+CUST00084,2025-07-11,51,Male,West,Referral
+CUST00085,2024-08-24,28,Male,South,Paid Ads
+CUST00086,2024-01-26,35,Male,Central,Social Media
+CUST00087,2025-01-14,46,Male,West,Paid Ads
+CUST00088,2024-01-27,18,Female,West,Paid Ads
+CUST00089,2024-09-09,38,Male,West,Email Campaign
+CUST00090,2024-05-31,25,Male,North,Email Campaign
+CUST00091,2024-02-29,38,Male,North,Paid Ads
+CUST00092,2025-03-22,30,Male,West,Social Media
+CUST00093,2025-11-14,18,Female,South,Social Media
+CUST00094,2024-07-08,40,Male,South,Social Media
+CUST00095,2024-02-24,44,Male,West,Referral
+CUST00096,2024-05-01,48,Female,East,Social Media
+CUST00097,2024-06-24,59,Other,Central,Social Media
+CUST00098,2024-07-14,42,Male,South,Referral
+CUST00099,2025-11-17,63,Male,North,Email Campaign
+CUST00100,2024-06-22,50,Other,Central,Organic Search
+CUST00101,2025-06-14,43,Other,East,Organic Search
+CUST00102,2024-03-09,47,Male,Central,Social Media
+CUST00103,2024-11-27,34,Other,Central,Paid Ads
+CUST00104,2025-03-07,23,Male,Central,Organic Search
+CUST00105,2024-02-01,55,Male,North,Email Campaign
+CUST00106,2025-08-22,20,Male,South,Social Media
+CUST00107,2024-04-24,40,Male,Central,Paid Ads
+CUST00108,2025-02-14,30,Other,Central,Organic Search
+CUST00109,2025-11-27,57,Other,North,Social Media
+CUST00110,2025-01-16,23,Other,Central,Email Campaign
+CUST00111,2025-12-08,41,Other,East,Referral
+CUST00112,2024-08-11,30,Male,East,Paid Ads
+CUST00113,2024-01-17,30,Female,West,Paid Ads
+CUST00114,2025-05-02,48,Other,East,Social Media
+CUST00115,2025-09-06,47,Female,North,Organic Search
+CUST00116,2024-05-04,45,Female,Central,Email Campaign
+CUST00117,2025-07-18,37,Male,North,Email Campaign
+CUST00118,2025-06-27,39,Male,Central,Referral
+CUST00119,2025-10-13,35,Male,East,Organic Search
+CUST00120,2025-06-12,51,Male,East,Referral
+CUST00121,2025-09-23,53,Male,West,Email Campaign
+CUST00122,2025-09-18,38,Other,East,Email Campaign
+CUST00123,2024-01-08,41,Other,Central,Organic Search
+CUST00124,2025-11-27,36,Other,Central,Referral
+CUST00125,2024-11-09,25,Other,North,Paid Ads
+CUST00126,2025-06-10,23,Female,North,Organic Search
+CUST00127,2025-07-06,37,Other,Central,Paid Ads
+CUST00128,2025-01-19,27,Female,East,Email Campaign
+CUST00129,2025-09-13,28,Male,East,Paid Ads
+CUST00130,2025-06-17,34,Other,East,Email Campaign
+CUST00131,2024-03-11,40,Female,East,Organic Search
+CUST00132,2025-07-29,31,Male,West,Referral
+CUST00133,2024-02-26,20,Male,North,Referral
+CUST00134,2025-10-25,21,Male,East,Paid Ads
+CUST00135,2025-11-16,29,Other,West,Email Campaign
+CUST00136,2025-01-25,35,Other,West,Email Campaign
+CUST00137,2025-09-26,37,Male,North,Organic Search
+CUST00138,2024-11-24,25,Other,South,Email Campaign
+CUST00139,2024-03-24,41,Male,East,Email Campaign
+CUST00140,2025-02-12,28,Other,South,Social Media
+CUST00141,2025-12-08,46,Male,North,Referral
+CUST00142,2025-11-05,33,Female,North,Referral
+CUST00143,2025-11-09,40,Male,South,Organic Search
+CUST00144,2025-01-22,38,Female,Central,Social Media
+CUST00145,2025-11-30,55,Other,South,Paid Ads
+CUST00146,2025-03-15,49,Male,South,Social Media
+CUST00147,2025-09-22,64,Male,South,Referral
+CUST00148,2024-05-11,28,Female,South,Referral
+CUST00149,2024-09-04,28,Male,North,Social Media
+CUST00150,2025-11-02,39,Male,West,Paid Ads
+CUST00151,2025-01-10,49,Male,West,Referral
+CUST00152,2024-04-23,31,Female,South,Paid Ads
+CUST00153,2025-07-29,22,Male,South,Social Media
+CUST00154,2025-11-09,59,Female,East,Organic Search
+CUST00155,2024-01-19,52,Female,East,Email Campaign
+CUST00156,2025-12-22,32,Female,Central,Referral
+CUST00157,2024-09-23,36,Male,North,Referral
+CUST00158,2024-07-10,52,Male,Central,Referral
+CUST00159,2025-08-28,38,Male,North,Email Campaign
+CUST00160,2025-10-23,38,Female,East,Referral
+CUST00161,2024-06-22,25,Female,Central,Email Campaign
+CUST00162,2025-11-25,36,Male,West,Email Campaign
+CUST00163,2025-04-15,19,Male,East,Organic Search
+CUST00164,2025-04-15,53,Other,West,Organic Search
+CUST00165,2025-06-24,52,Other,Central,Paid Ads
+CUST00166,2025-01-27,38,Female,West,Organic Search
+CUST00167,2024-10-09,45,Other,East,Email Campaign
+CUST00168,2024-05-29,54,Female,North,Referral
+CUST00169,2024-01-11,50,Other,East,Social Media
+CUST00170,2024-11-02,18,Female,West,Referral
+CUST00171,2024-08-31,56,Other,South,Paid Ads
+CUST00172,2025-03-11,38,Female,West,Paid Ads
+CUST00173,2025-10-26,18,Other,Central,Referral
+CUST00174,2025-11-17,37,Female,Central,Organic Search
+CUST00175,2024-08-18,22,Female,East,Paid Ads
+CUST00176,2024-03-31,46,Female,Central,Email Campaign
+CUST00177,2024-04-16,42,Other,East,Social Media
+CUST00178,2024-08-29,26,Female,West,Paid Ads
+CUST00179,2024-11-27,26,Other,West,Paid Ads
+CUST00180,2024-01-29,44,Other,North,Referral
+CUST00181,2024-07-14,36,Other,Central,Referral
+CUST00182,2024-09-11,25,Male,South,Referral
+CUST00183,2025-04-28,29,Male,South,Paid Ads
+CUST00184,2025-10-06,40,Male,North,Paid Ads
+CUST00185,2024-07-12,45,Female,Central,Organic Search
+CUST00186,2024-05-26,47,Female,West,Email Campaign
+CUST00187,2024-12-05,19,Male,West,Social Media
+CUST00188,2025-06-07,54,Female,South,Paid Ads
+CUST00189,2024-06-25,44,Other,North,Organic Search
+CUST00190,2025-01-07,41,Female,South,Paid Ads
+CUST00191,2024-11-09,18,Other,Central,Social Media
+CUST00192,2024-09-21,40,Male,Central,Paid Ads
+CUST00193,2024-08-13,30,Male,West,Paid Ads
+CUST00194,2025-09-15,25,Female,Central,Email Campaign
+CUST00195,2025-04-20,37,Other,East,Social Media
+CUST00196,2025-01-10,55,Other,Central,Social Media
+CUST00197,2025-06-05,25,Other,West,Paid Ads
+CUST00198,2024-09-11,35,Other,West,Social Media
+CUST00199,2025-02-03,21,Female,South,Referral
+CUST00200,2024-04-17,44,Other,West,Paid Ads
+CUST00201,2024-04-22,30,Female,West,Organic Search
+CUST00202,2025-09-19,27,Other,East,Paid Ads
+CUST00203,2025-01-02,41,Female,East,Referral
+CUST00204,2024-10-05,37,Other,North,Paid Ads
+CUST00205,2025-11-09,31,Male,South,Social Media
+CUST00206,2025-04-13,47,Other,South,Paid Ads
+CUST00207,2025-01-24,18,Male,West,Social Media
+CUST00208,2024-05-10,44,Female,Central,Social Media
+CUST00209,2024-10-24,18,Female,North,Paid Ads
+CUST00210,2025-03-03,38,Female,West,Email Campaign
+CUST00211,2025-02-10,37,Other,North,Email Campaign
+CUST00212,2024-02-06,23,Female,West,Organic Search
+CUST00213,2024-04-04,50,Female,East,Social Media
+CUST00214,2025-04-22,31,Female,Central,Email Campaign
+CUST00215,2025-02-20,18,Other,South,Social Media
+CUST00216,2025-10-12,28,Male,East,Social Media
+CUST00217,2025-11-06,42,Female,North,Social Media
+CUST00218,2025-12-20,30,Female,West,Paid Ads
+CUST00219,2025-06-02,52,Female,South,Email Campaign
+CUST00220,2025-07-10,41,Other,North,Social Media
+CUST00221,2024-04-24,42,Other,Central,Organic Search
+CUST00222,2025-01-01,32,Male,West,Paid Ads
+CUST00223,2025-09-06,52,Female,South,Organic Search
+CUST00224,2024-09-20,33,Female,West,Referral
+CUST00225,2024-07-29,38,Male,West,Referral
+CUST00226,2025-09-21,58,Female,West,Referral
+CUST00227,2025-01-15,40,Female,East,Organic Search
+CUST00228,2025-10-19,47,Female,North,Email Campaign
+CUST00229,2024-08-22,42,Male,East,Paid Ads
+CUST00230,2025-01-08,33,Other,North,Organic Search
+CUST00231,2025-07-06,32,Male,South,Paid Ads
+CUST00232,2025-06-04,27,Male,Central,Paid Ads
+CUST00233,2025-02-02,43,Male,South,Social Media
+CUST00234,2025-07-28,42,Other,North,Email Campaign
+CUST00235,2025-08-15,34,Male,West,Referral
+CUST00236,2024-04-14,26,Female,South,Email Campaign
+CUST00237,2025-05-20,48,Other,North,Paid Ads
+CUST00238,2025-01-14,54,Female,North,Email Campaign
+CUST00239,2024-08-29,18,Male,East,Email Campaign
+CUST00240,2025-10-25,55,Other,West,Social Media
+CUST00241,2025-02-14,67,Other,South,Organic Search
+CUST00242,2025-09-02,39,Other,South,Organic Search
+CUST00243,2025-11-27,43,Other,East,Email Campaign
+CUST00244,2024-04-16,40,Male,Central,Organic Search
+CUST00245,2025-02-28,57,Female,Central,Social Media
+CUST00246,2025-11-06,31,Other,East,Organic Search
+CUST00247,2024-03-20,38,Other,East,Organic Search
+CUST00248,2024-10-06,51,Female,West,Organic Search
+CUST00249,2024-08-22,25,Female,East,Social Media
+CUST00250,2025-10-05,18,Other,South,Social Media
+CUST00251,2024-08-30,33,Male,Central,Referral
+CUST00252,2024-11-12,58,Other,Central,Social Media
+CUST00253,2024-05-03,18,Female,West,Email Campaign
+CUST00254,2024-09-10,37,Female,East,Paid Ads
+CUST00255,2025-03-18,34,Male,East,Social Media
+CUST00256,2025-11-28,24,Male,West,Email Campaign
+CUST00257,2025-02-20,38,Other,West,Referral
+CUST00258,2025-09-20,37,Male,West,Referral
+CUST00259,2024-05-13,37,Male,West,Paid Ads
+CUST00260,2024-02-15,31,Female,East,Referral
+CUST00261,2024-11-13,18,Female,Central,Referral
+CUST00262,2025-01-26,51,Other,North,Email Campaign
+CUST00263,2024-05-07,21,Male,North,Paid Ads
+CUST00264,2024-10-13,28,Other,West,Social Media
+CUST00265,2024-04-19,49,Other,South,Social Media
+CUST00266,2024-06-04,53,Other,West,Social Media
+CUST00267,2025-04-15,31,Male,North,Referral
+CUST00268,2024-06-15,43,Male,West,Paid Ads
+CUST00269,2024-06-19,46,Female,Central,Referral
+CUST00270,2024-10-05,43,Female,Central,Email Campaign
+CUST00271,2024-05-23,45,Female,West,Email Campaign
+CUST00272,2024-02-29,34,Female,East,Social Media
+CUST00273,2024-01-19,41,Female,East,Referral
+CUST00274,2025-09-16,22,Male,North,Paid Ads
+CUST00275,2024-08-27,29,Female,North,Email Campaign
+CUST00276,2024-07-06,21,Other,South,Paid Ads
+CUST00277,2024-10-13,18,Male,West,Referral
+CUST00278,2025-10-25,58,Other,Central,Email Campaign
+CUST00279,2024-04-08,37,Other,East,Organic Search
+CUST00280,2025-07-13,51,Male,East,Paid Ads
+CUST00281,2024-01-16,41,Female,South,Referral
+CUST00282,2024-06-29,18,Male,Central,Paid Ads
+CUST00283,2025-08-07,38,Female,North,Organic Search
+CUST00284,2024-07-09,42,Other,East,Paid Ads
+CUST00285,2025-10-02,40,Other,West,Organic Search
+CUST00286,2025-01-22,26,Male,Central,Referral
+CUST00287,2025-08-03,41,Female,West,Social Media
+CUST00288,2025-04-10,49,Female,South,Organic Search
+CUST00289,2025-10-02,18,Female,West,Organic Search
+CUST00290,2024-02-02,22,Male,West,Social Media
+CUST00291,2025-05-31,40,Male,Central,Organic Search
+CUST00292,2024-09-29,28,Male,South,Email Campaign
+CUST00293,2024-09-05,26,Female,North,Paid Ads
+CUST00294,2024-11-29,50,Male,Central,Social Media
+CUST00295,2025-10-17,27,Other,Central,Email Campaign
+CUST00296,2024-07-02,46,Male,Central,Social Media
+CUST00297,2024-02-05,68,Female,West,Referral
+CUST00298,2025-06-23,36,Other,West,Referral
+CUST00299,2024-02-22,37,Other,Central,Organic Search
+CUST00300,2024-10-31,59,Other,North,Paid Ads
+CUST00301,2025-07-27,45,Other,South,Referral
+CUST00302,2025-02-17,49,Other,North,Paid Ads
+CUST00303,2024-03-05,37,Male,South,Email Campaign
+CUST00304,2025-01-14,45,Male,South,Organic Search
+CUST00305,2025-05-27,44,Female,West,Email Campaign
+CUST00306,2025-08-17,50,Female,East,Organic Search
+CUST00307,2024-12-08,43,Male,East,Referral
+CUST00308,2025-02-01,40,Other,West,Organic Search
+CUST00309,2024-01-24,25,Other,South,Referral
+CUST00310,2025-11-10,50,Other,Central,Paid Ads
+CUST00311,2025-12-03,38,Female,North,Email Campaign
+CUST00312,2025-08-03,38,Male,South,Referral
+CUST00313,2025-02-21,32,Male,North,Organic Search
+CUST00314,2025-05-02,34,Male,East,Email Campaign
+CUST00315,2025-05-22,35,Other,Central,Referral
+CUST00316,2025-07-07,32,Female,North,Social Media
+CUST00317,2025-03-14,41,Other,East,Social Media
+CUST00318,2024-01-18,48,Female,Central,Email Campaign
+CUST00319,2024-01-15,38,Female,West,Organic Search
+CUST00320,2025-11-13,50,Other,North,Social Media
+CUST00321,2025-12-10,31,Other,East,Email Campaign
+CUST00322,2025-03-15,54,Female,North,Organic Search
+CUST00323,2025-11-19,32,Male,Central,Email Campaign
+CUST00324,2025-05-31,55,Male,East,Email Campaign
+CUST00325,2024-03-18,21,Male,South,Social Media
+CUST00326,2024-06-12,26,Other,West,Referral
+CUST00327,2024-01-13,37,Male,Central,Social Media
+CUST00328,2025-04-20,40,Other,West,Organic Search
+CUST00329,2025-10-26,49,Female,East,Social Media
+CUST00330,2025-12-03,35,Female,East,Organic Search
+CUST00331,2024-04-26,39,Male,East,Social Media
+CUST00332,2024-12-24,43,Other,West,Referral
+CUST00333,2024-05-03,30,Other,West,Email Campaign
+CUST00334,2024-09-02,31,Male,West,Organic Search
+CUST00335,2025-11-09,55,Female,East,Referral
+CUST00336,2024-04-17,31,Male,West,Email Campaign
+CUST00337,2024-06-06,40,Male,Central,Social Media
+CUST00338,2025-02-10,19,Female,North,Paid Ads
+CUST00339,2025-09-06,30,Other,East,Email Campaign
+CUST00340,2025-10-30,33,Female,West,Organic Search
+CUST00341,2025-07-20,45,Male,East,Email Campaign
+CUST00342,2024-10-12,62,Male,East,Social Media
+CUST00343,2024-06-30,37,Other,West,Organic Search
+CUST00344,2024-06-03,59,Male,Central,Paid Ads
+CUST00345,2024-02-23,37,Other,South,Referral
+CUST00346,2025-02-18,52,Other,North,Email Campaign
+CUST00347,2024-08-31,46,Female,North,Paid Ads
+CUST00348,2025-09-07,60,Male,West,Organic Search
+CUST00349,2025-04-05,47,Other,South,Social Media
+CUST00350,2025-04-21,44,Other,East,Email Campaign
+CUST00351,2025-06-10,35,Other,East,Social Media
+CUST00352,2025-06-04,39,Female,West,Paid Ads
+CUST00353,2025-07-26,38,Female,Central,Paid Ads
+CUST00354,2024-07-19,53,Female,South,Email Campaign
+CUST00355,2025-11-17,21,Other,South,Organic Search
+CUST00356,2025-01-12,46,Female,West,Referral
+CUST00357,2024-03-15,40,Other,East,Organic Search
+CUST00358,2025-12-10,56,Female,East,Email Campaign
+CUST00359,2025-10-14,32,Other,West,Paid Ads
+CUST00360,2025-05-10,40,Female,Central,Social Media
+CUST00361,2025-02-11,52,Female,East,Email Campaign
+CUST00362,2025-09-02,19,Other,West,Social Media
+CUST00363,2025-11-03,31,Female,South,Paid Ads
+CUST00364,2024-01-18,42,Other,West,Paid Ads
+CUST00365,2024-08-14,56,Female,North,Referral
+CUST00366,2024-11-08,37,Other,West,Social Media
+CUST00367,2025-11-28,20,Female,South,Social Media
+CUST00368,2025-07-10,18,Male,South,Email Campaign
+CUST00369,2024-06-03,40,Other,East,Organic Search
+CUST00370,2024-07-10,31,Female,North,Email Campaign
+CUST00371,2025-12-22,45,Female,North,Paid Ads
+CUST00372,2025-03-22,36,Female,South,Organic Search
+CUST00373,2024-07-10,37,Female,East,Referral
+CUST00374,2024-06-09,40,Other,West,Organic Search
+CUST00375,2024-01-22,22,Female,Central,Social Media
+CUST00376,2024-11-27,55,Female,West,Email Campaign
+CUST00377,2025-12-20,42,Male,Central,Organic Search
+CUST00378,2025-08-14,43,Male,East,Paid Ads
+CUST00379,2025-03-14,40,Other,North,Social Media
+CUST00380,2024-12-03,46,Male,North,Social Media
+CUST00381,2024-03-28,29,Male,East,Organic Search
+CUST00382,2024-12-10,59,Male,East,Organic Search
+CUST00383,2025-02-11,48,Female,East,Referral
+CUST00384,2024-11-14,30,Female,South,Paid Ads
+CUST00385,2024-02-20,32,Other,West,Email Campaign
+CUST00386,2024-07-23,18,Other,South,Paid Ads
+CUST00387,2025-08-25,26,Male,North,Email Campaign
+CUST00388,2025-11-21,37,Female,Central,Paid Ads
+CUST00389,2024-12-15,56,Female,Central,Paid Ads
+CUST00390,2024-01-07,48,Male,West,Referral
+CUST00391,2024-12-28,35,Female,East,Organic Search
+CUST00392,2024-02-25,29,Female,East,Email Campaign
+CUST00393,2024-04-02,59,Male,North,Social Media
+CUST00394,2024-05-20,45,Female,Central,Referral
+CUST00395,2024-03-14,54,Other,West,Referral
+CUST00396,2025-10-17,49,Female,East,Paid Ads
+CUST00397,2025-01-13,46,Female,West,Organic Search
+CUST00398,2025-07-15,42,Male,West,Email Campaign
+CUST00399,2025-07-24,53,Female,Central,Referral
+CUST00400,2025-03-26,40,Other,East,Organic Search
+CUST00401,2025-05-27,30,Other,West,Referral
+CUST00402,2024-06-02,32,Male,Central,Organic Search
+CUST00403,2025-12-11,44,Other,West,Referral
+CUST00404,2024-12-14,31,Male,Central,Referral
+CUST00405,2025-05-18,38,Male,South,Email Campaign
+CUST00406,2025-04-21,39,Female,South,Organic Search
+CUST00407,2024-01-22,34,Other,North,Referral
+CUST00408,2025-05-24,18,Female,North,Email Campaign
+CUST00409,2024-10-24,23,Female,South,Organic Search
+CUST00410,2025-12-28,20,Female,East,Social Media
+CUST00411,2025-02-09,58,Male,South,Paid Ads
+CUST00412,2025-09-03,32,Other,East,Email Campaign
+CUST00413,2024-10-22,45,Other,East,Paid Ads
+CUST00414,2024-05-27,19,Female,West,Referral
+CUST00415,2025-03-18,30,Other,East,Organic Search
+CUST00416,2025-09-28,42,Female,North,Paid Ads
+CUST00417,2024-06-15,37,Male,West,Email Campaign
+CUST00418,2025-09-01,52,Female,North,Social Media
+CUST00419,2024-12-26,51,Male,East,Email Campaign
+CUST00420,2024-09-30,18,Male,West,Referral
+CUST00421,2025-12-15,22,Other,East,Email Campaign
+CUST00422,2024-04-01,51,Female,East,Organic Search
+CUST00423,2025-12-04,38,Other,South,Social Media
+CUST00424,2025-08-03,22,Male,Central,Email Campaign
+CUST00425,2024-06-23,56,Female,Central,Paid Ads
+CUST00426,2024-04-27,48,Other,North,Social Media
+CUST00427,2025-05-30,34,Other,East,Social Media
+CUST00428,2025-07-17,62,Male,South,Organic Search
+CUST00429,2025-08-30,34,Male,East,Social Media
+CUST00430,2024-02-09,35,Male,North,Paid Ads
+CUST00431,2025-10-17,46,Other,South,Social Media
+CUST00432,2024-12-21,37,Female,East,Email Campaign
+CUST00433,2024-04-13,48,Female,Central,Paid Ads
+CUST00434,2024-12-26,42,Female,North,Social Media
+CUST00435,2025-04-11,51,Other,West,Referral
+CUST00436,2025-04-16,25,Male,East,Paid Ads
+CUST00437,2025-12-25,30,Female,West,Paid Ads
+CUST00438,2024-05-04,60,Female,North,Referral
+CUST00439,2025-08-09,39,Other,East,Organic Search
+CUST00440,2025-03-08,42,Female,East,Paid Ads
+CUST00441,2025-02-03,51,Male,West,Organic Search
+CUST00442,2025-04-06,52,Other,South,Email Campaign
+CUST00443,2025-03-31,41,Male,North,Referral
+CUST00444,2025-12-28,28,Male,South,Email Campaign
+CUST00445,2025-12-06,41,Male,North,Email Campaign
+CUST00446,2025-05-31,43,Male,Central,Paid Ads
+CUST00447,2024-10-09,52,Male,East,Paid Ads
+CUST00448,2025-06-17,23,Other,North,Referral
+CUST00449,2024-10-31,36,Male,South,Email Campaign
+CUST00450,2024-01-05,39,Female,South,Organic Search
+CUST00451,2024-09-13,57,Other,North,Paid Ads
+CUST00452,2024-11-10,27,Male,East,Paid Ads
+CUST00453,2024-09-18,57,Other,East,Organic Search
+CUST00454,2024-11-20,50,Male,East,Organic Search
+CUST00455,2025-08-27,18,Male,West,Email Campaign
+CUST00456,2024-08-26,65,Male,North,Social Media
+CUST00457,2024-10-06,50,Female,East,Email Campaign
+CUST00458,2025-06-19,67,Other,North,Social Media
+CUST00459,2025-05-17,47,Other,South,Email Campaign
+CUST00460,2025-10-10,41,Male,Central,Referral
+CUST00461,2025-10-16,28,Female,North,Organic Search
+CUST00462,2024-06-28,34,Female,West,Social Media
+CUST00463,2024-08-03,40,Other,North,Social Media
+CUST00464,2025-03-03,54,Other,West,Organic Search
+CUST00465,2024-07-09,26,Male,East,Email Campaign
+CUST00466,2025-04-21,35,Male,North,Paid Ads
+CUST00467,2025-01-02,30,Female,Central,Email Campaign
+CUST00468,2024-06-28,41,Other,East,Social Media
+CUST00469,2025-12-02,40,Other,Central,Referral
+CUST00470,2025-03-19,54,Female,Central,Email Campaign
+CUST00471,2025-11-25,38,Female,North,Organic Search
+CUST00472,2024-05-28,38,Other,Central,Paid Ads
+CUST00473,2024-10-14,23,Female,West,Paid Ads
+CUST00474,2024-07-11,29,Female,East,Social Media
+CUST00475,2024-10-23,29,Female,West,Organic Search
+CUST00476,2024-11-12,41,Female,West,Referral
+CUST00477,2024-04-27,45,Other,East,Referral
+CUST00478,2024-03-08,42,Male,West,Organic Search
+CUST00479,2025-03-25,49,Male,North,Organic Search
+CUST00480,2024-09-30,64,Female,North,Referral
+CUST00481,2024-12-13,28,Male,Central,Organic Search
+CUST00482,2025-05-17,57,Other,Central,Email Campaign
+CUST00483,2025-11-24,44,Female,North,Social Media
+CUST00484,2024-02-25,57,Female,West,Organic Search
+CUST00485,2025-09-17,31,Female,Central,Referral
+CUST00486,2024-09-05,25,Female,North,Email Campaign
+CUST00487,2024-12-29,40,Other,South,Paid Ads
+CUST00488,2025-03-31,19,Other,West,Paid Ads
+CUST00489,2024-08-15,52,Male,East,Email Campaign
+CUST00490,2025-11-21,23,Female,North,Referral
+CUST00491,2025-05-26,29,Other,South,Social Media
+CUST00492,2025-11-01,37,Other,Central,Email Campaign
+CUST00493,2025-04-28,40,Other,Central,Organic Search
+CUST00494,2024-11-11,21,Other,East,Organic Search
+CUST00495,2024-08-31,51,Male,East,Referral
+CUST00496,2024-06-13,45,Female,East,Organic Search
+CUST00497,2024-04-16,52,Male,South,Email Campaign
+CUST00498,2025-03-12,39,Other,West,Organic Search
+CUST00499,2025-06-12,39,Male,North,Organic Search
+CUST00500,2025-05-11,36,Other,Central,Paid Ads
+CUST00501,2024-07-31,28,Female,West,Social Media
+CUST00502,2025-10-17,22,Female,South,Referral
+CUST00503,2024-08-01,24,Female,East,Email Campaign
+CUST00504,2024-12-26,18,Other,North,Organic Search
+CUST00505,2024-12-13,38,Male,South,Email Campaign
+CUST00506,2025-09-06,36,Male,North,Referral
+CUST00507,2025-07-18,29,Female,West,Social Media
+CUST00508,2024-10-09,49,Other,West,Social Media
+CUST00509,2025-05-01,38,Female,South,Email Campaign
+CUST00510,2025-07-29,37,Male,East,Social Media
+CUST00511,2025-08-26,37,Male,East,Email Campaign
+CUST00512,2025-06-19,47,Female,Central,Referral
+CUST00513,2024-12-17,25,Male,South,Social Media
+CUST00514,2024-02-17,34,Other,North,Organic Search
+CUST00515,2024-04-04,38,Male,East,Paid Ads
+CUST00516,2025-12-05,44,Male,East,Referral
+CUST00517,2024-12-20,26,Female,North,Organic Search
+CUST00518,2024-05-31,36,Female,West,Paid Ads
+CUST00519,2025-03-31,35,Male,West,Email Campaign
+CUST00520,2025-11-27,55,Other,South,Email Campaign
+CUST00521,2025-05-01,30,Other,East,Organic Search
+CUST00522,2024-02-13,34,Female,North,Social Media
+CUST00523,2025-11-28,43,Male,West,Organic Search
+CUST00524,2025-03-12,52,Female,Central,Social Media
+CUST00525,2024-10-25,21,Other,West,Social Media
+CUST00526,2024-10-16,35,Female,North,Social Media
+CUST00527,2025-05-28,31,Male,East,Paid Ads
+CUST00528,2024-06-30,18,Other,West,Referral
+CUST00529,2024-04-05,20,Male,West,Organic Search
+CUST00530,2024-06-17,40,Male,West,Email Campaign
+CUST00531,2025-11-13,37,Female,Central,Organic Search
+CUST00532,2025-01-18,44,Female,East,Referral
+CUST00533,2025-08-14,37,Male,East,Paid Ads
+CUST00534,2024-08-15,26,Male,Central,Organic Search
+CUST00535,2024-11-29,21,Other,Central,Paid Ads
+CUST00536,2025-07-03,18,Female,East,Paid Ads
+CUST00537,2025-10-30,29,Male,North,Paid Ads
+CUST00538,2024-11-02,50,Female,South,Paid Ads
+CUST00539,2025-08-11,63,Other,South,Organic Search
+CUST00540,2025-09-18,30,Male,West,Social Media
+CUST00541,2025-03-05,38,Other,Central,Social Media
+CUST00542,2025-05-31,28,Other,Central,Email Campaign
+CUST00543,2025-04-21,33,Female,East,Paid Ads
+CUST00544,2024-01-09,40,Female,North,Social Media
+CUST00545,2025-11-17,21,Female,East,Referral
+CUST00546,2025-06-26,26,Other,North,Referral
+CUST00547,2024-05-09,52,Other,North,Referral
+CUST00548,2024-01-15,46,Female,West,Organic Search
+CUST00549,2025-11-08,49,Male,East,Referral
+CUST00550,2024-09-24,28,Male,North,Email Campaign
+CUST00551,2024-03-25,53,Other,Central,Social Media
+CUST00552,2025-01-06,44,Female,Central,Email Campaign
+CUST00553,2025-11-08,30,Other,North,Social Media
+CUST00554,2025-11-25,49,Other,South,Referral
+CUST00555,2025-06-07,44,Other,West,Email Campaign
+CUST00556,2024-08-24,50,Male,North,Social Media
+CUST00557,2024-06-06,25,Male,East,Organic Search
+CUST00558,2025-03-05,18,Other,South,Organic Search
+CUST00559,2025-12-16,35,Male,West,Social Media
+CUST00560,2025-03-28,34,Other,Central,Email Campaign
+CUST00561,2025-07-25,35,Male,East,Referral
+CUST00562,2024-11-18,41,Female,West,Social Media
+CUST00563,2025-05-24,45,Female,Central,Organic Search
+CUST00564,2025-01-16,52,Other,East,Organic Search
+CUST00565,2025-11-05,42,Female,North,Email Campaign
+CUST00566,2024-05-29,30,Other,West,Referral
+CUST00567,2025-08-11,41,Female,Central,Paid Ads
+CUST00568,2024-12-21,58,Female,North,Email Campaign
+CUST00569,2025-01-30,47,Other,South,Referral
+CUST00570,2025-06-16,42,Female,West,Paid Ads
+CUST00571,2024-11-19,35,Other,North,Referral
+CUST00572,2024-05-22,27,Other,West,Referral
+CUST00573,2025-05-28,23,Male,Central,Organic Search
+CUST00574,2025-07-02,43,Other,West,Email Campaign
+CUST00575,2024-01-04,28,Female,North,Referral
+CUST00576,2025-12-09,45,Female,South,Paid Ads
+CUST00577,2024-04-14,46,Female,West,Paid Ads
+CUST00578,2025-12-09,33,Male,South,Paid Ads
+CUST00579,2025-05-20,40,Male,East,Organic Search
+CUST00580,2024-10-15,49,Other,Central,Email Campaign
+CUST00581,2024-01-03,19,Male,East,Email Campaign
+CUST00582,2024-03-06,53,Male,Central,Social Media
+CUST00583,2024-12-02,31,Male,South,Paid Ads
+CUST00584,2025-01-28,40,Other,Central,Paid Ads
+CUST00585,2025-02-26,50,Other,West,Organic Search
+CUST00586,2025-07-31,45,Female,East,Paid Ads
+CUST00587,2024-02-23,35,Female,Central,Referral
+CUST00588,2025-05-10,32,Other,West,Paid Ads
+CUST00589,2024-12-28,24,Other,South,Referral
+CUST00590,2024-10-30,35,Female,South,Referral
+CUST00591,2024-06-03,56,Other,Central,Social Media
+CUST00592,2025-11-05,45,Female,East,Social Media
+CUST00593,2024-10-21,52,Other,Central,Social Media
+CUST00594,2024-10-13,44,Male,South,Email Campaign
+CUST00595,2024-09-25,60,Male,East,Organic Search
+CUST00596,2024-09-10,56,Other,West,Referral
+CUST00597,2024-01-19,39,Other,North,Email Campaign
+CUST00598,2025-10-20,18,Male,East,Organic Search
+CUST00599,2024-10-27,44,Male,East,Social Media
+CUST00600,2024-12-04,31,Other,South,Social Media
+CUST00601,2024-02-26,37,Male,South,Social Media
+CUST00602,2025-05-25,59,Female,North,Social Media
+CUST00603,2024-04-21,26,Male,West,Email Campaign
+CUST00604,2025-04-04,41,Female,South,Social Media
+CUST00605,2025-12-26,36,Male,East,Paid Ads
+CUST00606,2024-06-21,35,Male,East,Organic Search
+CUST00607,2024-06-23,48,Other,East,Paid Ads
+CUST00608,2025-06-27,28,Male,North,Referral
+CUST00609,2024-12-07,18,Female,South,Social Media
+CUST00610,2025-09-21,48,Female,Central,Organic Search
+CUST00611,2025-04-09,38,Male,North,Referral
+CUST00612,2025-12-27,44,Male,South,Email Campaign
+CUST00613,2024-07-01,47,Other,Central,Email Campaign
+CUST00614,2025-01-30,22,Female,North,Referral
+CUST00615,2025-11-11,18,Male,East,Organic Search
+CUST00616,2024-04-15,51,Male,South,Social Media
+CUST00617,2024-06-24,40,Other,Central,Social Media
+CUST00618,2024-03-21,51,Male,North,Social Media
+CUST00619,2025-05-20,40,Other,Central,Organic Search
+CUST00620,2024-02-27,33,Other,Central,Email Campaign
+CUST00621,2024-12-05,43,Male,South,Referral
+CUST00622,2024-10-15,48,Female,North,Email Campaign
+CUST00623,2025-01-16,38,Female,South,Email Campaign
+CUST00624,2024-11-17,29,Female,South,Organic Search
+CUST00625,2025-07-04,30,Other,East,Organic Search
+CUST00626,2024-08-19,28,Other,Central,Email Campaign
+CUST00627,2024-12-29,41,Other,Central,Organic Search
+CUST00628,2025-09-01,34,Female,West,Organic Search
+CUST00629,2024-11-11,48,Other,West,Referral
+CUST00630,2024-12-14,37,Female,North,Referral
+CUST00631,2025-04-04,32,Male,East,Paid Ads
+CUST00632,2025-11-06,51,Other,North,Email Campaign
+CUST00633,2025-01-01,49,Other,East,Paid Ads
+CUST00634,2025-03-20,29,Male,East,Email Campaign
+CUST00635,2024-10-04,38,Female,South,Social Media
+CUST00636,2025-05-02,48,Other,West,Paid Ads
+CUST00637,2024-08-09,33,Male,North,Social Media
+CUST00638,2025-09-17,33,Male,East,Paid Ads
+CUST00639,2024-04-16,62,Male,South,Organic Search
+CUST00640,2025-09-09,25,Female,East,Email Campaign
+CUST00641,2024-12-19,37,Female,Central,Social Media
+CUST00642,2025-11-21,43,Female,North,Paid Ads
+CUST00643,2024-04-26,35,Female,East,Organic Search
+CUST00644,2024-01-09,49,Other,East,Referral
+CUST00645,2025-01-04,44,Male,East,Social Media
+CUST00646,2025-05-27,41,Female,West,Social Media
+CUST00647,2025-08-23,40,Female,South,Social Media
+CUST00648,2024-08-08,53,Other,West,Referral
+CUST00649,2025-07-29,18,Other,East,Organic Search
+CUST00650,2025-08-02,30,Other,West,Organic Search
+CUST00651,2024-05-01,48,Female,Central,Paid Ads
+CUST00652,2024-06-16,44,Other,East,Referral
+CUST00653,2024-08-31,57,Male,North,Referral
+CUST00654,2025-03-10,34,Other,East,Referral
+CUST00655,2025-08-12,42,Female,Central,Social Media
+CUST00656,2024-03-29,37,Male,West,Referral
+CUST00657,2024-08-15,32,Female,North,Referral
+CUST00658,2025-08-22,40,Other,West,Referral
+CUST00659,2025-08-08,48,Other,North,Organic Search
+CUST00660,2024-12-24,21,Other,West,Referral
+CUST00661,2024-05-28,44,Other,South,Organic Search
+CUST00662,2025-06-20,40,Male,Central,Social Media
+CUST00663,2025-04-10,42,Male,South,Organic Search
+CUST00664,2025-01-27,35,Male,East,Referral
+CUST00665,2024-11-08,51,Female,Central,Organic Search
+CUST00666,2024-09-23,36,Other,South,Social Media
+CUST00667,2025-12-24,31,Female,East,Social Media
+CUST00668,2025-10-04,36,Male,Central,Paid Ads
+CUST00669,2025-08-23,44,Other,East,Social Media
+CUST00670,2025-07-17,34,Female,East,Paid Ads
+CUST00671,2025-11-04,26,Male,North,Paid Ads
+CUST00672,2024-07-16,51,Female,Central,Social Media
+CUST00673,2024-03-19,42,Other,North,Referral
+CUST00674,2024-06-18,60,Female,West,Paid Ads
+CUST00675,2024-11-24,47,Other,East,Social Media
+CUST00676,2024-07-28,18,Male,North,Paid Ads
+CUST00677,2024-02-03,49,Male,West,Paid Ads
+CUST00678,2024-05-09,58,Other,West,Organic Search
+CUST00679,2024-06-16,38,Other,East,Referral
+CUST00680,2025-08-04,51,Other,North,Email Campaign
+CUST00681,2024-03-21,49,Other,East,Referral
+CUST00682,2025-02-04,44,Male,South,Referral
+CUST00683,2024-10-28,30,Other,South,Organic Search
+CUST00684,2025-02-25,18,Male,South,Paid Ads
+CUST00685,2024-11-06,57,Female,North,Referral
+CUST00686,2025-05-06,53,Other,Central,Referral
+CUST00687,2024-12-24,35,Female,Central,Paid Ads
+CUST00688,2025-04-01,27,Other,North,Organic Search
+CUST00689,2025-11-25,38,Female,West,Social Media
+CUST00690,2024-02-19,58,Other,West,Social Media
+CUST00691,2024-09-10,30,Other,North,Paid Ads
+CUST00692,2024-07-12,37,Female,North,Social Media
+CUST00693,2025-12-11,21,Female,Central,Referral
+CUST00694,2024-07-15,37,Male,Central,Email Campaign
+CUST00695,2024-12-27,34,Male,South,Social Media
+CUST00696,2025-02-04,28,Other,North,Organic Search
+CUST00697,2024-07-24,36,Other,South,Referral
+CUST00698,2025-03-07,46,Male,South,Referral
+CUST00699,2024-08-29,50,Other,South,Referral
+CUST00700,2025-05-06,38,Other,East,Organic Search
+CUST00701,2025-12-23,29,Female,South,Email Campaign
+CUST00702,2024-10-14,19,Female,South,Referral
+CUST00703,2025-05-14,19,Other,Central,Organic Search
+CUST00704,2025-10-30,48,Other,South,Email Campaign
+CUST00705,2024-01-02,32,Other,South,Paid Ads
+CUST00706,2024-02-11,39,Other,Central,Email Campaign
+CUST00707,2025-04-25,34,Female,Central,Organic Search
+CUST00708,2024-09-15,27,Male,North,Organic Search
+CUST00709,2024-10-20,36,Other,Central,Referral
+CUST00710,2024-09-05,38,Other,South,Email Campaign
+CUST00711,2025-11-21,24,Female,Central,Organic Search
+CUST00712,2024-01-08,54,Female,Central,Referral
+CUST00713,2025-10-01,49,Other,East,Social Media
+CUST00714,2024-03-25,41,Male,West,Referral
+CUST00715,2024-02-16,24,Female,North,Organic Search
+CUST00716,2024-10-22,39,Male,West,Social Media
+CUST00717,2024-12-06,31,Female,West,Paid Ads
+CUST00718,2025-01-26,39,Female,Central,Paid Ads
+CUST00719,2025-05-25,49,Female,East,Referral
+CUST00720,2024-10-27,43,Female,South,Referral
+CUST00721,2024-07-11,50,Other,Central,Organic Search
+CUST00722,2025-07-12,29,Female,South,Social Media
+CUST00723,2025-08-23,36,Male,East,Social Media
+CUST00724,2025-02-11,47,Male,South,Organic Search
+CUST00725,2025-02-24,50,Male,East,Social Media
+CUST00726,2024-04-26,51,Other,West,Paid Ads
+CUST00727,2024-04-09,34,Male,East,Email Campaign
+CUST00728,2024-01-18,47,Other,East,Paid Ads
+CUST00729,2025-03-21,31,Male,West,Email Campaign
+CUST00730,2024-08-05,35,Female,West,Referral
+CUST00731,2025-02-28,23,Female,North,Organic Search
+CUST00732,2025-12-04,30,Female,Central,Social Media
+CUST00733,2024-04-08,32,Male,South,Email Campaign
+CUST00734,2025-11-05,37,Female,North,Organic Search
+CUST00735,2024-01-28,36,Female,West,Email Campaign
+CUST00736,2024-01-17,33,Other,West,Referral
+CUST00737,2024-11-16,44,Other,North,Organic Search
+CUST00738,2025-10-31,34,Female,South,Referral
+CUST00739,2025-09-13,52,Other,East,Social Media
+CUST00740,2025-12-13,42,Female,North,Social Media
+CUST00741,2025-12-08,19,Male,Central,Email Campaign
+CUST00742,2024-04-17,24,Male,East,Email Campaign
+CUST00743,2025-01-14,45,Female,North,Social Media
+CUST00744,2024-07-30,44,Other,West,Email Campaign
+CUST00745,2024-05-16,35,Female,Central,Email Campaign
+CUST00746,2025-11-07,32,Male,South,Organic Search
+CUST00747,2024-08-31,25,Female,East,Referral
+CUST00748,2025-03-14,40,Other,East,Paid Ads
+CUST00749,2024-10-08,51,Male,Central,Email Campaign
+CUST00750,2024-05-20,61,Female,Central,Organic Search
+CUST00751,2024-01-28,69,Male,North,Paid Ads
+CUST00752,2025-11-05,19,Other,East,Social Media
+CUST00753,2025-05-20,51,Other,West,Paid Ads
+CUST00754,2025-07-07,39,Other,Central,Paid Ads
+CUST00755,2025-07-09,45,Female,Central,Referral
+CUST00756,2025-12-22,33,Male,West,Email Campaign
+CUST00757,2025-11-17,51,Other,East,Email Campaign
+CUST00758,2024-09-19,37,Female,Central,Email Campaign
+CUST00759,2024-05-22,30,Other,West,Email Campaign
+CUST00760,2024-12-10,54,Female,West,Organic Search
+CUST00761,2025-08-28,37,Female,East,Organic Search
+CUST00762,2025-06-19,41,Female,Central,Referral
+CUST00763,2025-10-31,35,Other,North,Email Campaign
+CUST00764,2024-11-03,36,Female,East,Email Campaign
+CUST00765,2025-09-17,45,Other,South,Organic Search
+CUST00766,2025-10-10,18,Other,West,Paid Ads
+CUST00767,2024-11-29,51,Other,Central,Social Media
+CUST00768,2024-04-04,49,Male,South,Organic Search
+CUST00769,2024-09-08,30,Other,North,Paid Ads
+CUST00770,2025-11-01,48,Male,West,Referral
+CUST00771,2025-11-29,49,Female,South,Social Media
+CUST00772,2024-01-11,44,Other,South,Social Media
+CUST00773,2025-08-06,30,Other,Central,Social Media
+CUST00774,2025-06-22,43,Other,North,Paid Ads
+CUST00775,2025-06-20,42,Other,South,Email Campaign
+CUST00776,2024-12-07,50,Female,West,Email Campaign
+CUST00777,2024-10-12,29,Female,East,Paid Ads
+CUST00778,2024-03-18,36,Female,Central,Referral
+CUST00779,2025-10-25,18,Other,East,Referral
+CUST00780,2024-12-16,40,Other,West,Paid Ads
+CUST00781,2025-05-09,18,Male,East,Email Campaign
+CUST00782,2024-07-15,28,Female,South,Referral
+CUST00783,2025-10-12,47,Female,South,Social Media
+CUST00784,2024-11-29,35,Female,West,Referral
+CUST00785,2025-03-24,38,Other,East,Referral
+CUST00786,2025-03-29,41,Male,Central,Email Campaign
+CUST00787,2025-09-14,18,Female,West,Referral
+CUST00788,2025-03-13,40,Male,East,Organic Search
+CUST00789,2025-04-22,47,Female,North,Referral
+CUST00790,2025-07-16,26,Female,East,Social Media
+CUST00791,2024-12-30,42,Male,South,Email Campaign
+CUST00792,2024-12-13,31,Female,Central,Referral
+CUST00793,2024-04-03,31,Male,North,Email Campaign
+CUST00794,2024-08-10,39,Other,Central,Paid Ads
+CUST00795,2024-12-23,34,Male,North,Email Campaign
+CUST00796,2024-01-03,39,Male,South,Organic Search
+CUST00797,2025-06-02,30,Male,West,Referral
+CUST00798,2024-07-08,34,Other,West,Organic Search
+CUST00799,2024-08-07,41,Other,South,Organic Search
+CUST00800,2025-09-28,40,Other,South,Social Media
+CUST00801,2025-11-05,41,Other,West,Social Media
+CUST00802,2024-09-28,31,Other,South,Referral
+CUST00803,2025-05-07,49,Female,East,Organic Search
+CUST00804,2025-11-16,52,Male,Central,Paid Ads
+CUST00805,2025-11-19,30,Other,North,Paid Ads
+CUST00806,2025-03-26,34,Female,South,Organic Search
+CUST00807,2024-09-09,38,Female,West,Paid Ads
+CUST00808,2024-11-16,45,Other,East,Organic Search
+CUST00809,2024-09-15,31,Male,East,Email Campaign
+CUST00810,2024-10-18,36,Other,North,Referral
+CUST00811,2025-08-18,45,Female,West,Email Campaign
+CUST00812,2025-09-08,24,Other,West,Paid Ads
+CUST00813,2025-04-19,19,Other,West,Referral
+CUST00814,2025-04-01,47,Male,North,Referral
+CUST00815,2024-08-08,23,Male,West,Referral
+CUST00816,2024-05-19,57,Other,South,Organic Search
+CUST00817,2024-07-20,31,Other,East,Referral
+CUST00818,2024-12-27,36,Other,South,Paid Ads
+CUST00819,2025-08-07,35,Other,West,Social Media
+CUST00820,2024-10-10,26,Other,East,Organic Search
+CUST00821,2025-02-20,37,Female,North,Paid Ads
+CUST00822,2025-11-30,34,Male,West,Referral
+CUST00823,2024-08-06,46,Male,North,Referral
+CUST00824,2025-11-14,46,Female,South,Social Media
+CUST00825,2024-01-12,46,Female,East,Referral
+CUST00826,2024-07-04,45,Other,Central,Organic Search
+CUST00827,2024-07-24,39,Female,East,Paid Ads
+CUST00828,2024-09-17,56,Male,North,Social Media
+CUST00829,2024-07-28,39,Female,South,Social Media
+CUST00830,2024-01-17,38,Other,Central,Referral
+CUST00831,2025-07-02,35,Other,North,Referral
+CUST00832,2024-07-31,55,Female,Central,Paid Ads
+CUST00833,2024-06-08,36,Male,South,Social Media
+CUST00834,2024-11-27,18,Male,West,Email Campaign
+CUST00835,2025-11-01,38,Female,West,Email Campaign
+CUST00836,2025-12-26,40,Female,Central,Paid Ads
+CUST00837,2024-06-06,33,Male,Central,Organic Search
+CUST00838,2025-06-30,34,Other,West,Email Campaign
+CUST00839,2024-04-12,43,Other,East,Organic Search
+CUST00840,2025-04-16,51,Other,North,Organic Search
+CUST00841,2024-08-29,35,Other,Central,Paid Ads
+CUST00842,2025-09-15,43,Other,Central,Paid Ads
+CUST00843,2024-02-13,27,Male,East,Email Campaign
+CUST00844,2025-11-01,63,Female,North,Paid Ads
+CUST00845,2024-06-18,62,Other,Central,Social Media
+CUST00846,2024-07-11,38,Male,Central,Social Media
+CUST00847,2024-11-17,18,Male,West,Paid Ads
+CUST00848,2024-04-26,56,Other,West,Social Media
+CUST00849,2024-05-26,32,Other,North,Email Campaign
+CUST00850,2025-12-19,45,Female,East,Organic Search
+CUST00851,2025-11-02,18,Female,East,Organic Search
+CUST00852,2025-02-19,43,Other,South,Email Campaign
+CUST00853,2025-03-11,43,Male,North,Social Media
+CUST00854,2024-04-23,38,Female,North,Email Campaign
+CUST00855,2025-05-17,46,Male,North,Social Media
+CUST00856,2024-04-23,22,Male,East,Social Media
+CUST00857,2025-06-24,34,Male,South,Social Media
+CUST00858,2024-09-06,37,Female,West,Social Media
+CUST00859,2024-06-09,22,Female,West,Organic Search
+CUST00860,2025-08-16,45,Other,Central,Paid Ads
+CUST00861,2024-03-07,32,Other,East,Organic Search
+CUST00862,2025-04-08,37,Male,Central,Social Media
+CUST00863,2024-07-21,46,Other,South,Paid Ads
+CUST00864,2025-12-28,35,Male,North,Referral
+CUST00865,2024-09-17,55,Female,Central,Social Media
+CUST00866,2025-10-27,30,Other,West,Paid Ads
+CUST00867,2024-09-06,29,Male,West,Referral
+CUST00868,2024-09-08,47,Male,East,Paid Ads
+CUST00869,2024-06-17,38,Other,North,Organic Search
+CUST00870,2024-01-28,26,Other,West,Email Campaign
+CUST00871,2024-05-02,33,Male,South,Paid Ads
+CUST00872,2025-11-26,46,Male,North,Email Campaign
+CUST00873,2025-02-10,57,Male,West,Email Campaign
+CUST00874,2024-09-04,39,Other,North,Paid Ads
+CUST00875,2025-10-24,35,Other,North,Social Media
+CUST00876,2024-11-29,49,Female,South,Email Campaign
+CUST00877,2024-05-23,22,Male,North,Paid Ads
+CUST00878,2025-08-21,42,Other,East,Paid Ads
+CUST00879,2024-02-19,18,Other,Central,Referral
+CUST00880,2025-08-08,40,Other,Central,Referral
+CUST00881,2025-04-30,46,Male,East,Paid Ads
+CUST00882,2025-09-05,52,Other,Central,Paid Ads
+CUST00883,2024-07-16,31,Female,East,Referral
+CUST00884,2025-06-19,37,Male,Central,Email Campaign
+CUST00885,2024-10-18,29,Other,South,Social Media
+CUST00886,2025-12-17,38,Other,West,Organic Search
+CUST00887,2024-07-31,46,Female,West,Email Campaign
+CUST00888,2025-08-16,24,Female,West,Social Media
+CUST00889,2024-07-31,52,Male,East,Social Media
+CUST00890,2024-05-07,26,Male,Central,Social Media
+CUST00891,2025-09-23,30,Male,South,Referral
+CUST00892,2025-04-07,55,Other,South,Social Media
+CUST00893,2025-01-16,28,Male,Central,Social Media
+CUST00894,2025-02-12,44,Female,Central,Email Campaign
+CUST00895,2025-12-28,45,Male,West,Paid Ads
+CUST00896,2025-05-15,19,Female,South,Referral
+CUST00897,2024-03-12,61,Other,North,Social Media
+CUST00898,2025-10-15,75,Female,North,Email Campaign
+CUST00899,2025-05-03,34,Other,South,Organic Search
+CUST00900,2025-05-01,59,Female,West,Email Campaign
+CUST00901,2025-08-26,48,Other,North,Organic Search
+CUST00902,2024-08-29,30,Male,Central,Email Campaign
+CUST00903,2025-11-15,43,Male,West,Paid Ads
+CUST00904,2025-01-28,47,Female,East,Organic Search
+CUST00905,2025-12-01,24,Male,South,Organic Search
+CUST00906,2025-05-29,33,Other,West,Paid Ads
+CUST00907,2024-01-18,19,Other,Central,Paid Ads
+CUST00908,2025-07-25,33,Female,South,Email Campaign
+CUST00909,2025-11-07,38,Female,East,Social Media
+CUST00910,2025-08-26,30,Female,Central,Referral
+CUST00911,2025-07-14,18,Female,East,Referral
+CUST00912,2025-08-28,51,Other,West,Social Media
+CUST00913,2024-08-04,46,Male,West,Referral
+CUST00914,2025-07-11,33,Male,East,Referral
+CUST00915,2025-03-13,52,Female,North,Email Campaign
+CUST00916,2024-01-09,41,Male,South,Organic Search
+CUST00917,2024-02-06,18,Female,Central,Email Campaign
+CUST00918,2024-09-04,42,Other,West,Referral
+CUST00919,2024-08-21,30,Male,South,Referral
+CUST00920,2025-07-02,56,Male,West,Email Campaign
+CUST00921,2024-10-29,24,Male,West,Email Campaign
+CUST00922,2024-09-18,52,Other,East,Referral
+CUST00923,2025-11-23,51,Female,West,Social Media
+CUST00924,2024-10-19,55,Male,East,Paid Ads
+CUST00925,2024-03-11,26,Male,Central,Social Media
+CUST00926,2025-11-17,26,Male,Central,Organic Search
+CUST00927,2024-12-29,35,Other,North,Organic Search
+CUST00928,2025-05-08,26,Other,North,Organic Search
+CUST00929,2024-08-30,20,Female,South,Paid Ads
+CUST00930,2024-12-04,30,Male,South,Organic Search
+CUST00931,2024-07-20,40,Male,Central,Social Media
+CUST00932,2024-02-23,38,Female,North,Email Campaign
+CUST00933,2025-10-27,31,Other,Central,Social Media
+CUST00934,2025-03-12,34,Other,West,Organic Search
+CUST00935,2024-07-06,47,Male,Central,Email Campaign
+CUST00936,2025-03-03,24,Female,North,Organic Search
+CUST00937,2024-07-08,50,Other,East,Email Campaign
+CUST00938,2025-12-24,41,Female,North,Email Campaign
+CUST00939,2025-10-23,44,Other,West,Paid Ads
+CUST00940,2025-02-15,42,Male,North,Email Campaign
+CUST00941,2025-04-21,35,Male,South,Paid Ads
+CUST00942,2024-06-26,37,Other,Central,Referral
+CUST00943,2025-11-01,51,Female,East,Social Media
+CUST00944,2025-04-15,33,Male,East,Social Media
+CUST00945,2025-12-24,37,Female,Central,Paid Ads
+CUST00946,2025-06-07,35,Other,South,Referral
+CUST00947,2024-10-30,32,Other,North,Organic Search
+CUST00948,2024-01-07,18,Male,West,Social Media
+CUST00949,2025-03-05,22,Female,Central,Social Media
+CUST00950,2024-03-04,46,Male,North,Paid Ads
+CUST00951,2025-09-06,28,Male,West,Social Media
+CUST00952,2024-06-22,29,Other,East,Email Campaign
+CUST00953,2024-11-17,46,Male,Central,Organic Search
+CUST00954,2024-02-26,55,Male,South,Email Campaign
+CUST00955,2025-11-11,43,Female,East,Organic Search
+CUST00956,2025-11-28,43,Male,East,Email Campaign
+CUST00957,2025-03-07,48,Other,North,Paid Ads
+CUST00958,2024-02-17,48,Female,North,Paid Ads
+CUST00959,2025-10-06,50,Other,South,Social Media
+CUST00960,2024-09-14,66,Male,East,Paid Ads
+CUST00961,2025-04-11,35,Other,South,Email Campaign
+CUST00962,2024-06-22,55,Female,Central,Referral
+CUST00963,2024-10-26,61,Female,South,Organic Search
+CUST00964,2025-12-27,28,Other,East,Organic Search
+CUST00965,2024-07-23,33,Male,West,Paid Ads
+CUST00966,2024-12-17,37,Male,East,Email Campaign
+CUST00967,2024-12-09,32,Other,Central,Social Media
+CUST00968,2024-07-01,55,Female,North,Referral
+CUST00969,2024-04-22,47,Female,West,Paid Ads
+CUST00970,2025-04-24,42,Female,Central,Social Media
+CUST00971,2024-07-21,24,Female,South,Email Campaign
+CUST00972,2025-01-09,28,Other,West,Organic Search
+CUST00973,2024-09-04,43,Other,East,Paid Ads
+CUST00974,2025-10-01,44,Other,North,Organic Search
+CUST00975,2025-12-11,39,Female,South,Social Media
+CUST00976,2025-11-09,18,Other,South,Social Media
+CUST00977,2024-10-01,40,Female,East,Organic Search
+CUST00978,2025-08-24,73,Male,North,Referral
+CUST00979,2025-08-09,43,Female,East,Referral
+CUST00980,2025-03-03,45,Male,South,Organic Search
+CUST00981,2025-04-16,44,Male,West,Social Media
+CUST00982,2024-03-23,26,Other,Central,Email Campaign
+CUST00983,2024-01-02,49,Female,North,Organic Search
+CUST00984,2024-04-22,49,Male,East,Email Campaign
+CUST00985,2024-01-14,29,Male,Central,Email Campaign
+CUST00986,2024-06-04,22,Female,West,Organic Search
+CUST00987,2025-03-01,21,Female,West,Social Media
+CUST00988,2025-11-02,31,Male,Central,Paid Ads
+CUST00989,2025-01-24,18,Other,Central,Paid Ads
+CUST00990,2025-05-02,18,Other,West,Paid Ads
+CUST00991,2024-04-30,18,Male,East,Referral
+CUST00992,2025-03-17,38,Female,West,Paid Ads
+CUST00993,2024-03-21,26,Male,South,Social Media
+CUST00994,2024-04-09,41,Female,West,Referral
+CUST00995,2024-05-24,48,Female,North,Referral
+CUST00996,2024-12-21,35,Female,South,Social Media
+CUST00997,2024-01-13,69,Other,Central,Paid Ads
+CUST00998,2025-04-27,24,Female,North,Paid Ads
+CUST00999,2024-01-07,41,Female,North,Social Media
+CUST01000,2025-07-28,59,Female,Central,Social Media
+CUST01001,2024-12-05,51,Female,West,Referral
+CUST01002,2024-05-08,30,Female,Central,Paid Ads
+CUST01003,2025-09-09,28,Female,East,Email Campaign
+CUST01004,2025-07-16,37,Other,South,Social Media
+CUST01005,2024-05-22,48,Female,South,Social Media
+CUST01006,2025-12-27,18,Female,East,Social Media
+CUST01007,2024-02-21,52,Other,South,Referral
+CUST01008,2025-11-29,32,Female,East,Social Media
+CUST01009,2024-08-12,30,Female,North,Email Campaign
+CUST01010,2024-02-18,23,Male,Central,Email Campaign
+CUST01011,2024-11-20,48,Male,Central,Organic Search
+CUST01012,2024-01-06,53,Other,West,Paid Ads
+CUST01013,2025-04-08,35,Female,East,Organic Search
+CUST01014,2025-06-24,37,Female,West,Paid Ads
+CUST01015,2024-02-16,43,Other,East,Paid Ads
+CUST01016,2025-06-10,55,Female,South,Social Media
+CUST01017,2024-12-28,42,Female,North,Social Media
+CUST01018,2025-06-03,27,Other,West,Email Campaign
+CUST01019,2024-05-16,41,Female,Central,Email Campaign
+CUST01020,2025-06-15,43,Other,West,Email Campaign
+CUST01021,2025-04-02,40,Male,East,Email Campaign
+CUST01022,2024-04-19,49,Other,North,Organic Search
+CUST01023,2025-05-16,27,Male,East,Paid Ads
+CUST01024,2024-06-18,30,Other,Central,Organic Search
+CUST01025,2024-10-24,38,Other,West,Referral
+CUST01026,2024-02-23,48,Female,North,Organic Search
+CUST01027,2024-09-24,44,Male,East,Paid Ads
+CUST01028,2024-07-09,50,Other,Central,Email Campaign
+CUST01029,2024-07-03,40,Other,Central,Paid Ads
+CUST01030,2024-07-07,44,Female,East,Social Media
+CUST01031,2025-05-01,43,Female,Central,Email Campaign
+CUST01032,2025-04-08,21,Male,East,Organic Search
+CUST01033,2025-06-28,29,Female,North,Referral
+CUST01034,2025-05-04,44,Female,North,Organic Search
+CUST01035,2024-10-29,42,Other,South,Referral
+CUST01036,2025-04-11,19,Female,East,Social Media
+CUST01037,2025-09-20,34,Male,Central,Social Media
+CUST01038,2025-11-28,46,Female,West,Organic Search
+CUST01039,2025-08-14,43,Female,West,Referral
+CUST01040,2024-03-07,19,Male,East,Organic Search
+CUST01041,2025-12-11,47,Other,North,Organic Search
+CUST01042,2025-11-29,45,Female,North,Paid Ads
+CUST01043,2024-01-29,25,Other,South,Email Campaign
+CUST01044,2024-09-09,35,Male,Central,Paid Ads
+CUST01045,2025-01-31,50,Female,Central,Social Media
+CUST01046,2024-01-11,22,Female,South,Social Media
+CUST01047,2025-03-12,42,Other,South,Paid Ads
+CUST01048,2025-03-13,51,Other,West,Social Media
+CUST01049,2025-02-14,39,Male,Central,Paid Ads
+CUST01050,2024-11-05,38,Female,Central,Social Media
+CUST01051,2024-09-29,43,Female,North,Paid Ads
+CUST01052,2025-10-12,21,Male,East,Organic Search
+CUST01053,2025-01-04,45,Other,North,Email Campaign
+CUST01054,2024-02-07,48,Male,East,Referral
+CUST01055,2025-04-17,25,Male,West,Organic Search
+CUST01056,2025-12-21,55,Female,West,Email Campaign
+CUST01057,2025-04-28,50,Other,East,Email Campaign
+CUST01058,2024-04-19,54,Female,Central,Social Media
+CUST01059,2025-02-23,44,Other,North,Referral
+CUST01060,2025-04-12,27,Female,West,Email Campaign
+CUST01061,2024-04-28,56,Male,East,Email Campaign
+CUST01062,2025-07-15,48,Other,North,Paid Ads
+CUST01063,2025-11-29,18,Female,North,Paid Ads
+CUST01064,2025-02-04,34,Female,North,Paid Ads
+CUST01065,2025-10-06,59,Female,South,Email Campaign
+CUST01066,2024-02-06,56,Female,West,Email Campaign
+CUST01067,2024-10-23,40,Male,Central,Social Media
+CUST01068,2025-09-10,28,Female,South,Social Media
+CUST01069,2024-05-27,45,Other,Central,Paid Ads
+CUST01070,2025-07-15,28,Other,South,Social Media
+CUST01071,2025-12-29,41,Female,South,Paid Ads
+CUST01072,2025-12-03,47,Female,West,Email Campaign
+CUST01073,2024-02-13,31,Male,East,Organic Search
+CUST01074,2025-11-12,35,Female,South,Paid Ads
+CUST01075,2025-10-18,35,Female,Central,Email Campaign
+CUST01076,2024-05-27,29,Other,West,Social Media
+CUST01077,2024-11-24,32,Other,West,Social Media
+CUST01078,2024-04-13,34,Other,West,Social Media
+CUST01079,2025-11-16,37,Male,North,Email Campaign
+CUST01080,2025-07-12,43,Male,South,Referral
+CUST01081,2024-07-28,32,Male,East,Paid Ads
+CUST01082,2024-09-05,33,Other,East,Paid Ads
+CUST01083,2024-02-13,45,Female,Central,Social Media
+CUST01084,2024-08-27,31,Other,Central,Organic Search
+CUST01085,2024-04-18,37,Other,North,Referral
+CUST01086,2025-01-29,27,Other,East,Email Campaign
+CUST01087,2024-04-06,40,Male,West,Email Campaign
+CUST01088,2025-03-12,70,Male,West,Organic Search
+CUST01089,2024-12-07,37,Other,South,Referral
+CUST01090,2025-07-29,28,Male,West,Referral
+CUST01091,2024-10-20,58,Female,North,Social Media
+CUST01092,2025-04-12,34,Male,South,Paid Ads
+CUST01093,2025-08-26,42,Other,Central,Referral
+CUST01094,2025-11-23,18,Other,Central,Social Media
+CUST01095,2024-09-17,37,Male,Central,Paid Ads
+CUST01096,2024-12-10,21,Male,South,Organic Search
+CUST01097,2025-08-09,49,Other,East,Email Campaign
+CUST01098,2024-08-17,33,Female,Central,Email Campaign
+CUST01099,2025-06-17,35,Male,East,Referral
+CUST01100,2025-12-20,34,Female,Central,Referral
+CUST01101,2025-02-09,64,Other,North,Paid Ads
+CUST01102,2025-01-21,36,Female,North,Referral
+CUST01103,2025-04-08,40,Other,South,Paid Ads
+CUST01104,2024-07-14,24,Male,South,Referral
+CUST01105,2024-05-07,31,Male,West,Social Media
+CUST01106,2025-11-09,48,Male,Central,Referral
+CUST01107,2024-04-10,52,Other,West,Social Media
+CUST01108,2024-03-01,31,Female,North,Organic Search
+CUST01109,2025-08-14,31,Female,Central,Referral
+CUST01110,2024-06-03,43,Other,East,Social Media
+CUST01111,2025-09-03,27,Female,East,Email Campaign
+CUST01112,2025-09-01,27,Male,North,Social Media
+CUST01113,2025-03-15,30,Other,East,Organic Search
+CUST01114,2024-09-02,43,Other,West,Paid Ads
+CUST01115,2024-12-06,26,Female,South,Social Media
+CUST01116,2025-09-27,29,Female,East,Referral
+CUST01117,2024-11-22,30,Female,Central,Email Campaign
+CUST01118,2024-10-27,43,Male,Central,Social Media
+CUST01119,2025-11-30,31,Female,North,Organic Search
+CUST01120,2024-04-29,54,Male,West,Organic Search
+CUST01121,2024-05-23,39,Male,South,Social Media
+CUST01122,2025-09-29,18,Female,North,Social Media
+CUST01123,2024-12-16,18,Male,South,Referral
+CUST01124,2024-04-22,58,Male,East,Organic Search
+CUST01125,2024-11-10,31,Other,East,Referral
+CUST01126,2024-07-15,41,Male,East,Paid Ads
+CUST01127,2024-09-22,32,Male,West,Referral
+CUST01128,2024-03-28,53,Other,South,Social Media
+CUST01129,2024-06-14,46,Other,North,Organic Search
+CUST01130,2024-09-28,60,Male,South,Social Media
+CUST01131,2024-01-14,39,Male,South,Email Campaign
+CUST01132,2024-06-13,53,Male,Central,Social Media
+CUST01133,2024-01-22,39,Male,North,Referral
+CUST01134,2025-12-15,41,Male,West,Paid Ads
+CUST01135,2025-04-19,48,Female,North,Paid Ads
+CUST01136,2025-11-08,32,Female,North,Organic Search
+CUST01137,2024-07-13,48,Male,East,Referral
+CUST01138,2025-12-12,55,Female,South,Social Media
+CUST01139,2024-02-25,18,Male,South,Organic Search
+CUST01140,2025-08-07,33,Other,Central,Organic Search
+CUST01141,2025-12-20,45,Other,South,Social Media
+CUST01142,2024-03-05,35,Female,South,Paid Ads
+CUST01143,2025-02-20,39,Female,Central,Social Media
+CUST01144,2024-11-25,18,Male,North,Organic Search
+CUST01145,2025-06-09,43,Male,North,Email Campaign
+CUST01146,2025-07-26,56,Other,West,Referral
+CUST01147,2024-02-08,26,Female,East,Paid Ads
+CUST01148,2025-09-11,58,Male,East,Organic Search
+CUST01149,2025-09-28,51,Male,Central,Email Campaign
+CUST01150,2024-05-13,24,Other,Central,Referral
+CUST01151,2024-08-27,52,Other,North,Referral
+CUST01152,2025-05-29,34,Male,Central,Email Campaign
+CUST01153,2024-07-20,18,Other,South,Social Media
+CUST01154,2024-10-30,37,Female,North,Paid Ads
+CUST01155,2024-03-22,48,Female,West,Organic Search
+CUST01156,2025-05-28,39,Male,West,Email Campaign
+CUST01157,2025-10-14,41,Male,Central,Organic Search
+CUST01158,2025-09-20,53,Female,East,Paid Ads
+CUST01159,2024-08-16,36,Female,Central,Social Media
+CUST01160,2024-11-20,39,Female,Central,Paid Ads
+CUST01161,2025-11-17,56,Female,North,Organic Search
+CUST01162,2025-04-06,45,Other,North,Organic Search
+CUST01163,2024-03-13,41,Female,South,Organic Search
+CUST01164,2025-10-18,23,Male,West,Email Campaign
+CUST01165,2025-11-19,18,Female,Central,Social Media
+CUST01166,2024-02-06,27,Female,West,Organic Search
+CUST01167,2024-11-16,44,Other,Central,Email Campaign
+CUST01168,2025-02-08,21,Other,South,Referral
+CUST01169,2025-07-30,36,Male,East,Organic Search
+CUST01170,2024-09-10,53,Other,South,Paid Ads
+CUST01171,2024-08-17,19,Other,East,Social Media
+CUST01172,2024-06-03,18,Other,North,Referral
+CUST01173,2025-07-19,33,Other,West,Paid Ads
+CUST01174,2024-07-31,51,Male,South,Organic Search
+CUST01175,2025-12-24,40,Female,North,Social Media
+CUST01176,2024-01-23,43,Other,Central,Organic Search
+CUST01177,2024-10-12,43,Female,South,Organic Search
+CUST01178,2025-11-27,26,Male,South,Organic Search
+CUST01179,2024-02-17,26,Male,West,Referral
+CUST01180,2025-10-18,35,Other,Central,Referral
+CUST01181,2024-02-23,46,Male,East,Paid Ads
+CUST01182,2025-08-06,18,Other,East,Organic Search
+CUST01183,2025-03-04,21,Male,East,Social Media
+CUST01184,2024-09-05,29,Female,Central,Organic Search
+CUST01185,2025-04-18,31,Female,Central,Organic Search
+CUST01186,2024-05-07,40,Female,West,Email Campaign
+CUST01187,2025-08-02,36,Female,North,Social Media
+CUST01188,2025-09-07,31,Other,South,Referral
+CUST01189,2024-06-10,59,Male,East,Organic Search
+CUST01190,2025-12-17,38,Other,North,Paid Ads
+CUST01191,2025-10-16,40,Other,Central,Organic Search
+CUST01192,2024-10-09,46,Male,North,Paid Ads
+CUST01193,2025-01-06,29,Male,West,Referral
+CUST01194,2025-07-31,59,Female,South,Paid Ads
+CUST01195,2025-08-06,52,Male,Central,Social Media
+CUST01196,2024-09-22,39,Male,East,Paid Ads
+CUST01197,2024-06-24,37,Female,East,Referral
+CUST01198,2024-08-03,52,Male,Central,Referral
+CUST01199,2024-08-15,36,Male,Central,Organic Search
+CUST01200,2024-08-30,43,Male,South,Email Campaign
+CUST01201,2025-07-17,36,Male,West,Organic Search
+CUST01202,2024-07-05,44,Female,East,Referral
+CUST01203,2025-12-29,57,Female,North,Email Campaign
+CUST01204,2024-03-25,50,Female,North,Referral
+CUST01205,2025-12-20,22,Male,East,Email Campaign
+CUST01206,2025-01-17,44,Female,Central,Paid Ads
+CUST01207,2024-04-22,34,Female,East,Email Campaign
+CUST01208,2025-09-20,23,Female,South,Email Campaign
+CUST01209,2024-10-02,50,Male,South,Organic Search
+CUST01210,2024-06-12,57,Female,North,Paid Ads
+CUST01211,2025-08-07,43,Other,East,Organic Search
+CUST01212,2024-10-20,33,Female,North,Social Media
+CUST01213,2024-01-28,18,Other,East,Organic Search
+CUST01214,2025-02-12,53,Male,Central,Paid Ads
+CUST01215,2025-07-05,36,Female,West,Organic Search
+CUST01216,2024-10-05,37,Male,East,Organic Search
+CUST01217,2025-11-28,49,Male,South,Email Campaign
+CUST01218,2025-09-24,25,Female,East,Social Media
+CUST01219,2025-01-19,36,Other,North,Email Campaign
+CUST01220,2025-07-17,30,Male,Central,Paid Ads
+CUST01221,2024-06-07,36,Other,West,Organic Search
+CUST01222,2025-09-01,27,Other,Central,Organic Search
+CUST01223,2024-05-27,18,Female,South,Paid Ads
+CUST01224,2024-10-03,33,Female,East,Referral
+CUST01225,2024-04-22,53,Female,East,Referral
+CUST01226,2024-04-17,41,Female,East,Paid Ads
+CUST01227,2024-07-06,24,Male,South,Paid Ads
+CUST01228,2024-02-09,18,Other,North,Paid Ads
+CUST01229,2024-10-01,26,Male,South,Social Media
+CUST01230,2024-06-30,45,Female,East,Social Media
+CUST01231,2025-09-18,25,Male,Central,Referral
+CUST01232,2024-06-17,28,Male,West,Referral
+CUST01233,2025-08-01,49,Female,East,Organic Search
+CUST01234,2024-04-19,44,Male,South,Referral
+CUST01235,2024-09-09,23,Other,Central,Organic Search
+CUST01236,2025-11-25,48,Male,East,Paid Ads
+CUST01237,2025-11-22,48,Male,South,Referral
+CUST01238,2024-07-21,59,Female,Central,Organic Search
+CUST01239,2025-03-09,19,Other,East,Referral
+CUST01240,2025-01-29,18,Male,North,Social Media
+CUST01241,2024-05-21,40,Female,Central,Email Campaign
+CUST01242,2025-01-24,43,Male,North,Social Media
+CUST01243,2024-01-12,26,Male,South,Organic Search
+CUST01244,2024-06-26,29,Male,North,Paid Ads
+CUST01245,2024-03-12,48,Male,South,Social Media
+CUST01246,2025-04-18,43,Female,North,Email Campaign
+CUST01247,2025-02-26,46,Other,East,Organic Search
+CUST01248,2024-07-12,59,Male,North,Paid Ads
+CUST01249,2024-06-07,25,Other,West,Paid Ads
+CUST01250,2025-06-06,47,Male,East,Organic Search
+CUST01251,2024-02-11,41,Male,West,Organic Search
+CUST01252,2024-02-01,26,Male,Central,Social Media
+CUST01253,2024-08-26,47,Other,West,Social Media
+CUST01254,2024-11-21,37,Male,West,Social Media
+CUST01255,2024-02-27,25,Male,East,Paid Ads
+CUST01256,2024-05-02,60,Male,East,Referral
+CUST01257,2025-04-09,40,Female,South,Organic Search
+CUST01258,2024-12-16,49,Other,Central,Email Campaign
+CUST01259,2024-03-03,18,Male,East,Social Media
+CUST01260,2024-10-11,50,Female,Central,Social Media
+CUST01261,2025-05-15,40,Male,North,Referral
+CUST01262,2025-09-22,18,Female,South,Social Media
+CUST01263,2025-04-18,42,Male,Central,Paid Ads
+CUST01264,2024-01-01,39,Other,Central,Organic Search
+CUST01265,2024-06-01,52,Female,East,Social Media
+CUST01266,2024-01-12,55,Other,West,Referral
+CUST01267,2024-08-14,45,Other,Central,Referral
+CUST01268,2024-04-04,61,Female,East,Paid Ads
+CUST01269,2025-08-05,40,Male,East,Email Campaign
+CUST01270,2024-10-08,45,Male,North,Referral
+CUST01271,2025-06-29,27,Male,West,Email Campaign
+CUST01272,2024-01-10,54,Female,Central,Paid Ads
+CUST01273,2025-08-18,38,Male,North,Paid Ads
+CUST01274,2024-02-29,44,Other,South,Referral
+CUST01275,2024-09-22,19,Other,North,Paid Ads
+CUST01276,2024-03-07,56,Other,West,Referral
+CUST01277,2024-03-08,55,Male,South,Paid Ads
+CUST01278,2025-11-27,18,Other,East,Referral
+CUST01279,2025-07-22,23,Other,North,Referral
+CUST01280,2025-04-15,25,Other,Central,Paid Ads
+CUST01281,2024-08-08,42,Other,South,Social Media
+CUST01282,2025-02-08,26,Other,East,Paid Ads
+CUST01283,2025-05-05,44,Female,North,Organic Search
+CUST01284,2025-05-26,42,Male,South,Email Campaign
+CUST01285,2024-05-10,63,Male,North,Email Campaign
+CUST01286,2024-05-17,25,Female,North,Referral
+CUST01287,2025-11-05,37,Other,South,Paid Ads
+CUST01288,2025-01-13,26,Female,South,Referral
+CUST01289,2024-02-09,40,Male,North,Paid Ads
+CUST01290,2024-06-12,27,Other,South,Organic Search
+CUST01291,2025-07-28,37,Other,East,Organic Search
+CUST01292,2024-06-25,30,Female,West,Email Campaign
+CUST01293,2025-03-05,57,Male,East,Referral
+CUST01294,2025-03-24,44,Female,South,Paid Ads
+CUST01295,2024-05-12,44,Other,West,Social Media
+CUST01296,2025-09-29,59,Other,East,Paid Ads
+CUST01297,2024-08-09,25,Other,Central,Email Campaign
+CUST01298,2024-10-04,52,Female,South,Email Campaign
+CUST01299,2024-11-13,46,Male,West,Referral
+CUST01300,2024-03-25,36,Other,East,Paid Ads
+CUST01301,2025-11-09,30,Male,North,Email Campaign
+CUST01302,2024-12-20,36,Female,Central,Organic Search
+CUST01303,2025-04-05,24,Male,Central,Referral
+CUST01304,2025-09-10,18,Other,South,Email Campaign
+CUST01305,2024-09-28,29,Male,West,Paid Ads
+CUST01306,2024-02-13,61,Female,North,Paid Ads
+CUST01307,2025-10-20,42,Female,East,Paid Ads
+CUST01308,2024-11-30,39,Other,North,Referral
+CUST01309,2025-02-11,18,Female,North,Referral
+CUST01310,2024-10-01,25,Male,South,Organic Search
+CUST01311,2025-05-29,63,Female,East,Organic Search
+CUST01312,2025-02-07,52,Other,North,Organic Search
+CUST01313,2025-07-16,28,Female,West,Social Media
+CUST01314,2025-09-27,38,Male,West,Social Media
+CUST01315,2024-07-26,37,Female,East,Email Campaign
+CUST01316,2025-02-20,37,Female,North,Social Media
+CUST01317,2025-10-19,44,Other,South,Paid Ads
+CUST01318,2024-02-26,55,Female,North,Organic Search
+CUST01319,2025-03-17,43,Female,North,Referral
+CUST01320,2025-10-20,44,Female,North,Organic Search
+CUST01321,2025-09-04,43,Female,South,Social Media
+CUST01322,2025-10-17,18,Male,North,Email Campaign
+CUST01323,2024-12-02,29,Male,East,Email Campaign
+CUST01324,2025-03-26,33,Other,West,Organic Search
+CUST01325,2024-02-08,48,Female,South,Email Campaign
+CUST01326,2024-05-31,40,Female,South,Organic Search
+CUST01327,2024-02-03,43,Male,East,Paid Ads
+CUST01328,2024-09-04,43,Male,West,Email Campaign
+CUST01329,2025-01-23,43,Other,Central,Referral
+CUST01330,2025-02-22,51,Other,East,Referral
+CUST01331,2025-11-01,65,Male,North,Organic Search
+CUST01332,2025-03-13,48,Female,Central,Email Campaign
+CUST01333,2024-05-09,39,Female,South,Organic Search
+CUST01334,2025-01-01,30,Female,North,Social Media
+CUST01335,2025-04-11,36,Male,East,Email Campaign
+CUST01336,2024-05-09,28,Female,South,Organic Search
+CUST01337,2024-09-27,36,Male,South,Paid Ads
+CUST01338,2024-12-04,31,Other,East,Organic Search
+CUST01339,2025-08-10,38,Female,North,Referral
+CUST01340,2024-02-19,23,Female,West,Social Media
+CUST01341,2025-01-31,39,Other,East,Organic Search
+CUST01342,2025-12-28,50,Other,Central,Social Media
+CUST01343,2024-01-31,40,Male,East,Social Media
+CUST01344,2024-02-01,21,Female,South,Social Media
+CUST01345,2025-11-11,32,Male,East,Social Media
+CUST01346,2024-03-29,35,Female,East,Paid Ads
+CUST01347,2024-12-28,29,Female,Central,Organic Search
+CUST01348,2025-11-20,22,Male,North,Organic Search
+CUST01349,2025-12-22,49,Other,East,Email Campaign
+CUST01350,2024-01-03,18,Female,Central,Paid Ads
+CUST01351,2025-03-25,34,Other,North,Social Media
+CUST01352,2024-01-17,18,Other,West,Email Campaign
+CUST01353,2024-05-03,56,Other,West,Email Campaign
+CUST01354,2024-10-02,45,Male,West,Referral
+CUST01355,2024-03-08,43,Male,West,Organic Search
+CUST01356,2025-01-17,31,Other,Central,Email Campaign
+CUST01357,2025-10-07,35,Other,Central,Paid Ads
+CUST01358,2025-07-01,33,Male,West,Paid Ads
+CUST01359,2025-12-16,38,Male,South,Paid Ads
+CUST01360,2024-10-06,38,Male,North,Social Media
+CUST01361,2025-11-15,44,Male,West,Paid Ads
+CUST01362,2025-05-26,31,Other,South,Email Campaign
+CUST01363,2025-02-08,43,Female,East,Organic Search
+CUST01364,2024-02-11,43,Male,West,Email Campaign
+CUST01365,2024-04-07,53,Female,Central,Referral
+CUST01366,2024-12-29,18,Female,Central,Social Media
+CUST01367,2025-12-23,26,Male,Central,Email Campaign
+CUST01368,2024-04-21,57,Other,West,Organic Search
+CUST01369,2025-11-09,31,Female,South,Paid Ads
+CUST01370,2024-12-04,23,Other,Central,Email Campaign
+CUST01371,2024-09-07,55,Male,North,Email Campaign
+CUST01372,2024-11-26,60,Male,East,Email Campaign
+CUST01373,2025-02-03,46,Female,West,Referral
+CUST01374,2024-09-05,28,Female,West,Email Campaign
+CUST01375,2025-01-29,48,Other,West,Organic Search
+CUST01376,2025-07-11,25,Male,East,Social Media
+CUST01377,2025-03-03,24,Male,Central,Email Campaign
+CUST01378,2024-10-20,37,Other,West,Organic Search
+CUST01379,2024-12-25,18,Female,East,Paid Ads
+CUST01380,2024-01-17,37,Male,West,Referral
+CUST01381,2025-10-21,36,Female,North,Referral
+CUST01382,2025-03-13,22,Female,East,Referral
+CUST01383,2024-10-12,49,Female,North,Paid Ads
+CUST01384,2024-01-16,38,Male,East,Social Media
+CUST01385,2025-02-07,40,Female,East,Social Media
+CUST01386,2024-10-27,48,Other,North,Paid Ads
+CUST01387,2025-10-01,22,Female,South,Social Media
+CUST01388,2024-05-19,41,Other,West,Email Campaign
+CUST01389,2024-08-02,63,Female,North,Email Campaign
+CUST01390,2025-03-06,53,Male,North,Referral
+CUST01391,2024-03-02,38,Other,Central,Social Media
+CUST01392,2024-07-17,22,Male,Central,Email Campaign
+CUST01393,2025-07-22,50,Male,South,Paid Ads
+CUST01394,2025-12-29,45,Male,North,Paid Ads
+CUST01395,2025-09-12,65,Male,West,Organic Search
+CUST01396,2025-04-20,20,Female,South,Referral
+CUST01397,2025-11-02,26,Female,West,Email Campaign
+CUST01398,2024-02-04,50,Female,North,Organic Search
+CUST01399,2025-09-20,28,Male,East,Social Media
+CUST01400,2025-08-24,29,Other,West,Paid Ads
+CUST01401,2025-04-17,47,Female,Central,Email Campaign
+CUST01402,2024-08-06,28,Female,East,Paid Ads
+CUST01403,2024-05-26,38,Female,North,Referral
+CUST01404,2025-12-13,39,Male,West,Organic Search
+CUST01405,2025-06-20,26,Male,Central,Paid Ads
+CUST01406,2025-05-25,34,Male,South,Paid Ads
+CUST01407,2024-05-24,18,Female,West,Email Campaign
+CUST01408,2025-03-27,38,Male,North,Social Media
+CUST01409,2024-06-11,19,Male,South,Email Campaign
+CUST01410,2025-07-02,30,Male,South,Referral
+CUST01411,2024-09-16,43,Other,East,Referral
+CUST01412,2024-05-07,41,Female,West,Referral
+CUST01413,2025-12-08,32,Female,East,Paid Ads
+CUST01414,2024-03-17,35,Female,East,Email Campaign
+CUST01415,2024-08-09,41,Other,West,Email Campaign
+CUST01416,2025-08-24,40,Male,North,Email Campaign
+CUST01417,2025-06-19,43,Other,East,Email Campaign
+CUST01418,2025-11-20,28,Other,Central,Email Campaign
+CUST01419,2024-12-16,39,Female,East,Organic Search
+CUST01420,2024-08-06,64,Female,North,Referral
+CUST01421,2025-08-25,52,Female,East,Referral
+CUST01422,2025-07-22,22,Female,East,Paid Ads
+CUST01423,2025-12-12,50,Male,Central,Paid Ads
+CUST01424,2024-06-25,48,Male,Central,Social Media
+CUST01425,2024-04-28,38,Other,East,Paid Ads
+CUST01426,2025-08-17,36,Other,North,Social Media
+CUST01427,2024-04-27,40,Female,East,Social Media
+CUST01428,2025-05-19,52,Female,West,Organic Search
+CUST01429,2025-02-27,53,Other,Central,Paid Ads
+CUST01430,2025-05-11,36,Female,South,Email Campaign
+CUST01431,2025-08-10,52,Other,West,Referral
+CUST01432,2025-09-07,50,Other,East,Paid Ads
+CUST01433,2024-03-19,49,Other,Central,Paid Ads
+CUST01434,2025-11-03,35,Female,North,Social Media
+CUST01435,2025-03-17,27,Male,East,Email Campaign
+CUST01436,2025-12-13,27,Male,East,Organic Search
+CUST01437,2024-10-02,43,Male,East,Paid Ads
+CUST01438,2024-09-07,38,Other,East,Social Media
+CUST01439,2024-12-30,50,Female,East,Referral
+CUST01440,2024-12-21,36,Other,East,Social Media
+CUST01441,2025-11-18,35,Male,West,Organic Search
+CUST01442,2025-02-20,36,Other,Central,Email Campaign
+CUST01443,2024-10-22,30,Other,North,Social Media
+CUST01444,2025-03-30,44,Male,Central,Organic Search
+CUST01445,2024-11-16,48,Other,West,Email Campaign
+CUST01446,2024-08-12,28,Female,West,Organic Search
+CUST01447,2025-11-28,47,Male,South,Paid Ads
+CUST01448,2024-02-08,36,Female,West,Email Campaign
+CUST01449,2024-10-20,29,Female,South,Referral
+CUST01450,2024-02-17,44,Other,South,Organic Search
+CUST01451,2025-10-12,26,Female,East,Paid Ads
+CUST01452,2024-09-01,35,Female,North,Organic Search
+CUST01453,2025-03-10,30,Female,East,Paid Ads
+CUST01454,2025-11-27,41,Male,Central,Paid Ads
+CUST01455,2024-02-07,53,Female,North,Paid Ads
+CUST01456,2024-11-06,32,Other,West,Social Media
+CUST01457,2024-12-22,41,Female,West,Social Media
+CUST01458,2025-11-21,37,Female,North,Organic Search
+CUST01459,2024-06-23,40,Other,South,Referral
+CUST01460,2024-03-09,38,Male,East,Email Campaign
+CUST01461,2024-08-29,45,Male,North,Organic Search
+CUST01462,2025-08-02,31,Other,South,Paid Ads
+CUST01463,2024-08-03,28,Other,East,Referral
+CUST01464,2024-05-10,28,Male,North,Social Media
+CUST01465,2024-07-22,18,Other,Central,Referral
+CUST01466,2025-09-25,23,Male,North,Organic Search
+CUST01467,2024-08-19,36,Female,East,Social Media
+CUST01468,2024-08-12,34,Other,Central,Email Campaign
+CUST01469,2025-07-02,41,Other,East,Social Media
+CUST01470,2024-02-19,27,Other,South,Referral
+CUST01471,2024-05-13,40,Female,East,Paid Ads
+CUST01472,2025-10-30,53,Male,West,Organic Search
+CUST01473,2025-08-24,41,Male,South,Paid Ads
+CUST01474,2024-12-24,35,Male,North,Email Campaign
+CUST01475,2025-10-16,36,Other,South,Organic Search
+CUST01476,2024-07-21,40,Female,North,Social Media
+CUST01477,2024-10-02,23,Other,East,Email Campaign
+CUST01478,2024-04-27,39,Other,North,Email Campaign
+CUST01479,2024-12-18,45,Male,North,Organic Search
+CUST01480,2024-04-19,47,Male,North,Social Media
+CUST01481,2024-03-02,22,Female,West,Organic Search
+CUST01482,2024-07-10,18,Other,East,Social Media
+CUST01483,2025-11-04,33,Other,South,Paid Ads
+CUST01484,2024-10-01,36,Other,North,Referral
+CUST01485,2025-12-22,33,Female,North,Email Campaign
+CUST01486,2025-12-08,41,Female,Central,Email Campaign
+CUST01487,2024-08-27,23,Other,South,Social Media
+CUST01488,2025-10-18,43,Male,Central,Email Campaign
+CUST01489,2025-09-13,52,Male,East,Organic Search
+CUST01490,2024-08-22,43,Male,West,Paid Ads
+CUST01491,2025-03-20,26,Other,South,Referral
+CUST01492,2025-07-24,33,Other,South,Referral
+CUST01493,2024-04-02,30,Other,West,Referral
+CUST01494,2025-03-25,29,Male,North,Email Campaign
+CUST01495,2025-05-02,51,Female,South,Social Media
+CUST01496,2024-11-24,32,Female,South,Organic Search
+CUST01497,2024-05-06,53,Male,North,Organic Search
+CUST01498,2025-04-28,24,Other,West,Paid Ads
+CUST01499,2024-02-09,21,Male,Central,Organic Search
+CUST01500,2024-02-26,45,Other,North,Referral
+CUST01501,2024-07-27,37,Other,South,Social Media
+CUST01502,2024-08-03,35,Female,East,Social Media
+CUST01503,2024-04-23,41,Male,North,Paid Ads
+CUST01504,2025-01-22,57,Male,East,Referral
+CUST01505,2024-05-16,24,Other,East,Social Media
+CUST01506,2024-08-25,20,Other,North,Organic Search
+CUST01507,2025-11-17,49,Male,North,Paid Ads
+CUST01508,2024-06-28,40,Other,South,Referral
+CUST01509,2024-06-07,41,Female,West,Email Campaign
+CUST01510,2024-08-27,40,Female,North,Referral
+CUST01511,2025-12-04,18,Female,South,Organic Search
+CUST01512,2025-02-02,36,Female,West,Social Media
+CUST01513,2025-07-22,28,Female,West,Social Media
+CUST01514,2024-09-11,18,Female,South,Organic Search
+CUST01515,2025-10-20,54,Male,North,Paid Ads
+CUST01516,2025-08-14,46,Male,West,Email Campaign
+CUST01517,2024-02-05,58,Female,Central,Social Media
+CUST01518,2025-06-08,26,Male,Central,Social Media
+CUST01519,2025-03-20,45,Female,Central,Organic Search
+CUST01520,2024-05-22,29,Other,South,Social Media
+CUST01521,2025-06-08,20,Female,North,Social Media
+CUST01522,2025-11-18,36,Female,North,Organic Search
+CUST01523,2025-12-05,49,Female,East,Organic Search
+CUST01524,2025-05-10,37,Other,Central,Email Campaign
+CUST01525,2024-11-08,34,Other,Central,Paid Ads
+CUST01526,2024-01-28,33,Other,East,Email Campaign
+CUST01527,2025-12-16,49,Other,Central,Organic Search
+CUST01528,2024-04-17,43,Female,South,Social Media
+CUST01529,2025-02-24,48,Female,West,Paid Ads
+CUST01530,2025-11-27,47,Other,Central,Organic Search
+CUST01531,2025-03-29,33,Male,South,Email Campaign
+CUST01532,2025-02-22,28,Female,West,Paid Ads
+CUST01533,2024-11-27,33,Male,West,Referral
+CUST01534,2024-03-02,48,Male,East,Referral
+CUST01535,2025-08-16,34,Male,Central,Paid Ads
+CUST01536,2025-05-09,22,Other,West,Social Media
+CUST01537,2025-03-20,31,Male,North,Social Media
+CUST01538,2024-08-13,30,Female,Central,Social Media
+CUST01539,2025-08-23,29,Male,West,Social Media
+CUST01540,2025-11-18,60,Female,North,Social Media
+CUST01541,2025-11-29,30,Other,North,Organic Search
+CUST01542,2025-01-07,42,Female,West,Organic Search
+CUST01543,2025-02-24,33,Other,Central,Organic Search
+CUST01544,2025-11-09,24,Male,Central,Email Campaign
+CUST01545,2025-10-07,44,Other,East,Email Campaign
+CUST01546,2025-04-11,55,Other,South,Social Media
+CUST01547,2025-02-25,75,Female,East,Organic Search
+CUST01548,2024-12-29,24,Male,West,Referral
+CUST01549,2025-07-17,61,Other,Central,Email Campaign
+CUST01550,2024-07-12,28,Female,East,Social Media
+CUST01551,2024-08-30,18,Male,North,Paid Ads
+CUST01552,2024-01-26,38,Male,East,Referral
+CUST01553,2024-08-23,57,Other,East,Email Campaign
+CUST01554,2024-02-29,42,Other,East,Organic Search
+CUST01555,2025-11-30,21,Male,South,Social Media
+CUST01556,2024-10-27,45,Male,West,Organic Search
+CUST01557,2024-03-15,32,Female,Central,Paid Ads
+CUST01558,2024-12-19,45,Male,North,Social Media
+CUST01559,2024-02-13,26,Male,West,Paid Ads
+CUST01560,2024-02-06,40,Other,East,Organic Search
+CUST01561,2024-03-23,37,Female,North,Email Campaign
+CUST01562,2024-07-02,31,Male,West,Social Media
+CUST01563,2024-01-28,64,Other,Central,Email Campaign
+CUST01564,2024-08-20,20,Male,West,Organic Search
+CUST01565,2024-03-15,28,Other,North,Email Campaign
+CUST01566,2025-11-07,34,Female,Central,Social Media
+CUST01567,2025-11-09,57,Other,South,Email Campaign
+CUST01568,2025-03-17,47,Male,South,Organic Search
+CUST01569,2024-12-03,28,Female,Central,Email Campaign
+CUST01570,2025-10-09,49,Female,Central,Social Media
+CUST01571,2024-12-05,40,Female,Central,Paid Ads
+CUST01572,2024-06-23,47,Female,West,Referral
+CUST01573,2025-08-19,46,Female,West,Paid Ads
+CUST01574,2024-01-12,71,Male,West,Email Campaign
+CUST01575,2025-12-08,29,Other,Central,Referral
+CUST01576,2025-10-14,40,Other,Central,Referral
+CUST01577,2024-03-29,55,Other,Central,Paid Ads
+CUST01578,2025-09-07,43,Male,South,Email Campaign
+CUST01579,2025-09-21,26,Other,East,Referral
+CUST01580,2024-05-21,41,Other,South,Paid Ads
+CUST01581,2025-06-16,23,Other,Central,Referral
+CUST01582,2025-06-13,50,Other,North,Referral
+CUST01583,2024-06-07,32,Other,West,Email Campaign
+CUST01584,2024-11-23,39,Other,West,Email Campaign
+CUST01585,2025-11-20,33,Female,West,Organic Search
+CUST01586,2025-06-22,34,Other,North,Organic Search
+CUST01587,2025-01-30,53,Female,South,Organic Search
+CUST01588,2024-03-01,35,Other,North,Paid Ads
+CUST01589,2025-10-01,51,Female,South,Referral
+CUST01590,2025-10-16,33,Other,East,Paid Ads
+CUST01591,2025-10-20,24,Male,East,Paid Ads
+CUST01592,2025-12-14,55,Other,North,Referral
+CUST01593,2025-05-05,45,Female,North,Email Campaign
+CUST01594,2024-02-14,30,Other,Central,Paid Ads
+CUST01595,2024-07-16,54,Other,Central,Social Media
+CUST01596,2025-12-08,48,Male,Central,Referral
+CUST01597,2024-10-31,35,Other,North,Social Media
+CUST01598,2025-12-18,40,Female,West,Referral
+CUST01599,2025-06-13,56,Other,North,Organic Search
+CUST01600,2025-06-03,19,Other,East,Paid Ads
+CUST01601,2024-02-10,35,Other,West,Paid Ads
+CUST01602,2024-09-05,18,Other,East,Email Campaign
+CUST01603,2024-02-10,49,Other,Central,Paid Ads
+CUST01604,2025-02-22,40,Other,South,Referral
+CUST01605,2024-10-20,29,Female,South,Organic Search
+CUST01606,2024-01-06,57,Male,South,Email Campaign
+CUST01607,2025-04-07,36,Male,West,Organic Search
+CUST01608,2025-12-06,33,Female,East,Email Campaign
+CUST01609,2025-09-28,45,Female,South,Paid Ads
+CUST01610,2025-08-28,57,Other,East,Organic Search
+CUST01611,2024-11-28,42,Female,West,Paid Ads
+CUST01612,2024-02-28,36,Male,South,Referral
+CUST01613,2024-12-02,39,Other,North,Email Campaign
+CUST01614,2025-09-06,29,Other,East,Social Media
+CUST01615,2025-08-01,30,Other,Central,Referral
+CUST01616,2025-11-30,39,Male,East,Email Campaign
+CUST01617,2024-11-24,32,Male,South,Email Campaign
+CUST01618,2024-03-31,47,Male,Central,Paid Ads
+CUST01619,2025-06-30,19,Female,Central,Email Campaign
+CUST01620,2024-08-20,36,Female,North,Referral
+CUST01621,2025-12-10,37,Male,South,Referral
+CUST01622,2025-09-15,41,Female,East,Referral
+CUST01623,2025-05-11,41,Male,Central,Email Campaign
+CUST01624,2024-05-09,31,Female,Central,Organic Search
+CUST01625,2024-01-16,32,Male,East,Social Media
+CUST01626,2025-02-28,42,Male,Central,Email Campaign
+CUST01627,2024-01-19,42,Male,North,Referral
+CUST01628,2025-01-09,41,Female,North,Social Media
+CUST01629,2024-09-29,51,Female,Central,Referral
+CUST01630,2025-11-04,19,Male,Central,Referral
+CUST01631,2024-11-12,40,Other,Central,Social Media
+CUST01632,2024-07-14,24,Female,North,Referral
+CUST01633,2025-11-30,39,Other,South,Referral
+CUST01634,2024-04-18,30,Other,North,Organic Search
+CUST01635,2024-12-23,27,Male,Central,Email Campaign
+CUST01636,2024-07-31,24,Male,North,Paid Ads
+CUST01637,2025-11-05,47,Other,South,Social Media
+CUST01638,2024-01-05,18,Male,South,Email Campaign
+CUST01639,2025-10-25,38,Other,West,Organic Search
+CUST01640,2024-06-29,44,Other,South,Organic Search
+CUST01641,2025-04-30,41,Female,East,Organic Search
+CUST01642,2024-10-10,18,Male,North,Organic Search
+CUST01643,2025-11-15,37,Male,East,Email Campaign
+CUST01644,2024-06-08,52,Male,Central,Paid Ads
+CUST01645,2025-05-01,41,Female,West,Social Media
+CUST01646,2024-09-16,38,Female,West,Social Media
+CUST01647,2024-04-29,19,Female,North,Social Media
+CUST01648,2025-07-01,23,Other,North,Email Campaign
+CUST01649,2025-07-09,18,Male,Central,Organic Search
+CUST01650,2024-06-15,48,Other,Central,Organic Search
+CUST01651,2024-12-19,39,Other,North,Referral
+CUST01652,2025-11-07,64,Other,North,Referral
+CUST01653,2025-08-27,40,Other,East,Email Campaign
+CUST01654,2025-02-12,24,Male,East,Social Media
+CUST01655,2024-09-17,36,Female,West,Organic Search
+CUST01656,2025-08-29,27,Female,South,Email Campaign
+CUST01657,2025-11-07,47,Male,South,Social Media
+CUST01658,2025-12-04,34,Other,East,Paid Ads
+CUST01659,2025-01-03,24,Female,East,Organic Search
+CUST01660,2024-02-06,49,Other,Central,Paid Ads
+CUST01661,2024-09-27,21,Male,North,Organic Search
+CUST01662,2024-08-12,25,Other,Central,Social Media
+CUST01663,2024-08-04,37,Other,Central,Organic Search
+CUST01664,2025-02-07,42,Female,South,Referral
+CUST01665,2025-12-16,51,Male,West,Email Campaign
+CUST01666,2024-03-03,49,Male,South,Paid Ads
+CUST01667,2024-02-14,56,Male,Central,Referral
+CUST01668,2025-08-12,45,Male,North,Paid Ads
+CUST01669,2025-08-13,20,Other,Central,Organic Search
+CUST01670,2025-10-29,35,Other,West,Email Campaign
+CUST01671,2024-05-19,52,Male,East,Organic Search
+CUST01672,2024-03-28,19,Female,North,Paid Ads
+CUST01673,2024-06-16,32,Other,Central,Social Media
+CUST01674,2024-06-01,21,Female,East,Paid Ads
+CUST01675,2024-09-30,30,Other,South,Organic Search
+CUST01676,2024-08-09,46,Female,Central,Organic Search
+CUST01677,2024-12-20,43,Male,East,Social Media
+CUST01678,2024-09-08,42,Female,East,Email Campaign
+CUST01679,2024-08-06,39,Other,East,Email Campaign
+CUST01680,2024-10-13,33,Male,Central,Email Campaign
+CUST01681,2025-04-30,28,Female,East,Social Media
+CUST01682,2024-07-24,50,Male,North,Referral
+CUST01683,2025-05-23,46,Male,South,Social Media
+CUST01684,2025-10-02,24,Female,East,Paid Ads
+CUST01685,2025-06-10,18,Other,East,Social Media
+CUST01686,2024-08-21,44,Female,West,Referral
+CUST01687,2025-09-14,61,Female,West,Email Campaign
+CUST01688,2024-02-05,50,Male,South,Email Campaign
+CUST01689,2024-12-10,26,Male,East,Paid Ads
+CUST01690,2024-08-13,31,Other,South,Referral
+CUST01691,2024-11-20,42,Other,North,Organic Search
+CUST01692,2025-06-27,46,Male,Central,Organic Search
+CUST01693,2025-06-21,41,Other,Central,Social Media
+CUST01694,2025-02-08,28,Other,South,Organic Search
+CUST01695,2024-11-16,31,Other,East,Email Campaign
+CUST01696,2024-02-27,38,Other,West,Paid Ads
+CUST01697,2024-07-23,24,Female,West,Paid Ads
+CUST01698,2025-07-10,39,Other,East,Paid Ads
+CUST01699,2024-03-14,18,Female,Central,Email Campaign
+CUST01700,2025-03-30,62,Male,West,Referral
+CUST01701,2025-08-02,29,Other,North,Paid Ads
+CUST01702,2024-02-04,40,Other,South,Email Campaign
+CUST01703,2024-04-04,29,Male,West,Paid Ads
+CUST01704,2025-11-24,20,Male,Central,Email Campaign
+CUST01705,2025-05-12,41,Other,South,Social Media
+CUST01706,2025-03-23,31,Female,North,Paid Ads
+CUST01707,2025-11-29,27,Female,South,Organic Search
+CUST01708,2025-12-29,26,Female,East,Paid Ads
+CUST01709,2025-05-22,43,Male,South,Email Campaign
+CUST01710,2024-03-30,50,Female,West,Social Media
+CUST01711,2025-11-18,36,Female,North,Organic Search
+CUST01712,2024-09-10,48,Other,East,Organic Search
+CUST01713,2025-05-06,29,Other,Central,Referral
+CUST01714,2024-11-24,37,Other,East,Email Campaign
+CUST01715,2025-03-24,41,Other,Central,Paid Ads
+CUST01716,2025-11-11,18,Female,West,Referral
+CUST01717,2024-11-30,54,Other,North,Email Campaign
+CUST01718,2025-05-15,24,Female,West,Paid Ads
+CUST01719,2024-08-08,42,Other,West,Referral
+CUST01720,2025-02-22,27,Female,West,Social Media
+CUST01721,2025-09-15,18,Other,North,Email Campaign
+CUST01722,2025-04-14,18,Male,West,Paid Ads
+CUST01723,2024-06-20,52,Male,North,Email Campaign
+CUST01724,2024-06-19,34,Other,East,Paid Ads
+CUST01725,2024-05-14,44,Male,South,Paid Ads
+CUST01726,2025-08-13,46,Female,Central,Organic Search
+CUST01727,2024-08-27,27,Other,South,Social Media
+CUST01728,2025-02-11,39,Female,North,Social Media
+CUST01729,2024-05-11,51,Other,West,Social Media
+CUST01730,2024-02-04,41,Male,Central,Paid Ads
+CUST01731,2025-07-27,24,Other,West,Organic Search
+CUST01732,2024-07-10,22,Male,North,Paid Ads
+CUST01733,2025-05-29,52,Other,Central,Paid Ads
+CUST01734,2025-04-17,60,Male,Central,Organic Search
+CUST01735,2024-09-03,48,Other,South,Organic Search
+CUST01736,2025-11-23,43,Male,East,Paid Ads
+CUST01737,2024-03-14,41,Other,West,Email Campaign
+CUST01738,2025-07-01,53,Other,North,Referral
+CUST01739,2025-08-07,32,Male,South,Social Media
+CUST01740,2024-08-07,47,Other,West,Social Media
+CUST01741,2025-12-29,23,Male,South,Social Media
+CUST01742,2024-05-03,41,Other,South,Email Campaign
+CUST01743,2024-12-12,43,Male,Central,Email Campaign
+CUST01744,2025-09-30,31,Female,South,Referral
+CUST01745,2025-03-28,30,Female,Central,Email Campaign
+CUST01746,2025-02-19,32,Male,South,Social Media
+CUST01747,2024-08-04,18,Female,South,Organic Search
+CUST01748,2025-12-13,23,Male,South,Email Campaign
+CUST01749,2024-09-05,18,Other,West,Paid Ads
+CUST01750,2024-07-04,42,Other,North,Paid Ads
+CUST01751,2024-03-13,46,Female,Central,Email Campaign
+CUST01752,2025-11-08,41,Male,Central,Email Campaign
+CUST01753,2025-10-24,23,Male,North,Social Media
+CUST01754,2024-07-31,50,Other,South,Email Campaign
+CUST01755,2024-04-10,35,Other,North,Social Media
+CUST01756,2024-04-08,27,Other,West,Referral
+CUST01757,2025-03-26,32,Male,Central,Social Media
+CUST01758,2025-01-11,50,Male,West,Social Media
+CUST01759,2025-04-22,21,Female,Central,Email Campaign
+CUST01760,2024-11-14,47,Male,West,Paid Ads
+CUST01761,2025-02-02,44,Female,West,Paid Ads
+CUST01762,2025-11-16,27,Male,East,Email Campaign
+CUST01763,2025-11-20,46,Other,West,Referral
+CUST01764,2025-06-30,30,Male,North,Organic Search
+CUST01765,2024-09-24,25,Other,Central,Organic Search
+CUST01766,2024-08-05,61,Other,North,Social Media
+CUST01767,2025-10-17,42,Other,South,Referral
+CUST01768,2024-02-17,45,Female,East,Organic Search
+CUST01769,2025-09-30,54,Male,West,Email Campaign
+CUST01770,2025-05-18,48,Female,East,Email Campaign
+CUST01771,2024-09-19,25,Female,Central,Referral
+CUST01772,2024-06-13,42,Other,East,Social Media
+CUST01773,2024-10-10,27,Male,West,Email Campaign
+CUST01774,2025-09-28,40,Other,West,Paid Ads
+CUST01775,2025-07-27,48,Female,Central,Email Campaign
+CUST01776,2025-11-06,23,Female,East,Referral
+CUST01777,2025-07-10,30,Other,East,Social Media
+CUST01778,2025-07-25,34,Other,South,Organic Search
+CUST01779,2024-03-02,23,Other,South,Social Media
+CUST01780,2025-11-21,59,Other,South,Organic Search
+CUST01781,2024-07-16,40,Male,Central,Social Media
+CUST01782,2024-12-13,26,Female,Central,Email Campaign
+CUST01783,2024-11-08,50,Other,North,Paid Ads
+CUST01784,2024-09-09,49,Female,North,Organic Search
+CUST01785,2024-02-19,44,Male,West,Email Campaign
+CUST01786,2025-12-03,18,Female,North,Organic Search
+CUST01787,2024-10-29,43,Female,South,Referral
+CUST01788,2024-10-14,53,Male,Central,Organic Search
+CUST01789,2025-03-17,24,Other,West,Social Media
+CUST01790,2024-01-12,34,Other,Central,Referral
+CUST01791,2024-06-14,46,Other,Central,Organic Search
+CUST01792,2024-12-20,27,Male,West,Social Media
+CUST01793,2025-11-02,55,Male,South,Email Campaign
+CUST01794,2024-01-07,31,Female,South,Organic Search
+CUST01795,2025-02-14,51,Other,Central,Email Campaign
+CUST01796,2024-10-22,18,Other,South,Email Campaign
+CUST01797,2024-11-05,27,Male,North,Referral
+CUST01798,2025-02-15,47,Male,North,Paid Ads
+CUST01799,2024-06-14,51,Male,East,Social Media
+CUST01800,2024-06-29,43,Female,West,Social Media
+CUST01801,2025-04-13,29,Other,South,Email Campaign
+CUST01802,2025-03-14,18,Male,North,Organic Search
+CUST01803,2025-11-27,18,Other,East,Email Campaign
+CUST01804,2025-10-03,18,Other,East,Referral
+CUST01805,2024-11-11,45,Female,South,Email Campaign
+CUST01806,2024-05-14,57,Male,West,Social Media
+CUST01807,2024-06-21,35,Other,North,Referral
+CUST01808,2025-11-29,45,Male,West,Email Campaign
+CUST01809,2025-01-15,34,Male,Central,Organic Search
+CUST01810,2025-03-12,26,Other,East,Referral
+CUST01811,2025-06-28,31,Male,Central,Referral
+CUST01812,2025-10-10,32,Other,Central,Referral
+CUST01813,2024-10-20,27,Other,West,Social Media
+CUST01814,2025-11-21,38,Other,West,Paid Ads
+CUST01815,2025-02-14,43,Female,West,Social Media
+CUST01816,2025-05-17,25,Other,North,Social Media
+CUST01817,2025-04-16,48,Male,East,Organic Search
+CUST01818,2024-08-19,41,Female,South,Paid Ads
+CUST01819,2025-11-22,55,Female,West,Referral
+CUST01820,2024-05-28,29,Other,Central,Organic Search
+CUST01821,2024-07-15,20,Other,East,Paid Ads
+CUST01822,2025-09-07,32,Female,North,Social Media
+CUST01823,2025-12-10,49,Other,East,Organic Search
+CUST01824,2024-04-21,44,Other,South,Social Media
+CUST01825,2025-03-07,39,Female,East,Paid Ads
+CUST01826,2024-09-15,32,Other,East,Paid Ads
+CUST01827,2025-07-21,44,Other,South,Social Media
+CUST01828,2025-06-24,36,Other,South,Paid Ads
+CUST01829,2025-09-20,30,Other,South,Referral
+CUST01830,2025-08-18,45,Male,South,Paid Ads
+CUST01831,2025-10-28,66,Male,Central,Referral
+CUST01832,2024-01-12,52,Male,North,Organic Search
+CUST01833,2025-12-28,46,Male,West,Email Campaign
+CUST01834,2025-07-29,39,Male,Central,Organic Search
+CUST01835,2025-01-14,37,Female,East,Email Campaign
+CUST01836,2025-04-24,18,Female,West,Email Campaign
+CUST01837,2025-06-19,23,Female,West,Paid Ads
+CUST01838,2024-04-30,37,Other,East,Social Media
+CUST01839,2025-03-05,28,Male,Central,Paid Ads
+CUST01840,2024-06-26,38,Male,Central,Social Media
+CUST01841,2025-07-26,38,Female,Central,Organic Search
+CUST01842,2025-06-11,42,Other,East,Social Media
+CUST01843,2025-01-17,27,Other,South,Social Media
+CUST01844,2025-08-20,39,Male,Central,Social Media
+CUST01845,2024-03-10,35,Female,North,Organic Search
+CUST01846,2024-03-31,33,Other,South,Social Media
+CUST01847,2024-03-11,20,Other,North,Referral
+CUST01848,2024-06-12,53,Female,Central,Referral
+CUST01849,2024-06-13,46,Male,Central,Referral
+CUST01850,2025-08-29,42,Male,East,Social Media
+CUST01851,2024-03-29,23,Other,East,Referral
+CUST01852,2025-06-15,34,Male,West,Social Media
+CUST01853,2024-12-20,45,Male,West,Referral
+CUST01854,2024-10-02,38,Female,West,Referral
+CUST01855,2024-12-11,24,Female,South,Email Campaign
+CUST01856,2025-08-05,18,Male,Central,Paid Ads
+CUST01857,2024-08-21,71,Male,East,Paid Ads
+CUST01858,2025-07-09,34,Other,West,Social Media
+CUST01859,2024-08-21,34,Male,South,Paid Ads
+CUST01860,2025-12-12,33,Female,North,Paid Ads
+CUST01861,2024-11-18,43,Female,West,Paid Ads
+CUST01862,2024-09-06,18,Other,Central,Email Campaign
+CUST01863,2025-11-06,21,Other,East,Social Media
+CUST01864,2024-11-16,29,Female,East,Email Campaign
+CUST01865,2024-05-24,55,Other,North,Social Media
+CUST01866,2025-01-29,32,Male,South,Organic Search
+CUST01867,2025-06-03,41,Male,East,Social Media
+CUST01868,2025-05-20,35,Other,North,Social Media
+CUST01869,2025-09-26,36,Other,East,Referral
+CUST01870,2024-02-27,35,Female,East,Email Campaign
+CUST01871,2025-10-22,37,Other,East,Referral
+CUST01872,2025-01-16,40,Male,West,Organic Search
+CUST01873,2025-05-06,48,Female,Central,Paid Ads
+CUST01874,2024-03-20,23,Other,Central,Email Campaign
+CUST01875,2025-11-30,45,Male,East,Referral
+CUST01876,2024-07-29,45,Female,Central,Social Media
+CUST01877,2024-07-18,54,Other,West,Organic Search
+CUST01878,2024-02-24,30,Female,Central,Referral
+CUST01879,2024-03-12,46,Female,South,Paid Ads
+CUST01880,2025-07-15,36,Other,East,Social Media
+CUST01881,2024-09-10,31,Other,Central,Email Campaign
+CUST01882,2024-12-07,43,Female,North,Organic Search
+CUST01883,2025-10-24,52,Male,East,Paid Ads
+CUST01884,2024-02-14,66,Female,East,Referral
+CUST01885,2024-01-23,48,Other,East,Email Campaign
+CUST01886,2025-08-08,49,Other,West,Referral
+CUST01887,2024-07-29,29,Female,East,Email Campaign
+CUST01888,2024-12-08,21,Other,West,Social Media
+CUST01889,2025-11-21,39,Male,South,Organic Search
+CUST01890,2025-08-08,31,Male,South,Referral
+CUST01891,2025-01-03,23,Other,North,Paid Ads
+CUST01892,2024-08-11,40,Male,West,Organic Search
+CUST01893,2024-05-27,29,Male,North,Social Media
+CUST01894,2024-04-11,49,Other,North,Organic Search
+CUST01895,2025-03-25,27,Female,Central,Organic Search
+CUST01896,2025-08-12,43,Male,East,Email Campaign
+CUST01897,2024-02-20,28,Male,North,Social Media
+CUST01898,2025-03-31,57,Female,South,Paid Ads
+CUST01899,2025-10-25,28,Other,East,Social Media
+CUST01900,2024-02-05,23,Other,South,Paid Ads
+CUST01901,2024-03-27,18,Other,South,Organic Search
+CUST01902,2025-07-16,24,Male,East,Referral
+CUST01903,2024-09-13,25,Female,West,Email Campaign
+CUST01904,2025-05-10,33,Female,Central,Social Media
+CUST01905,2024-09-13,41,Male,Central,Paid Ads
+CUST01906,2025-11-21,28,Other,Central,Social Media
+CUST01907,2024-09-30,47,Other,Central,Social Media
+CUST01908,2024-05-02,39,Other,Central,Referral
+CUST01909,2025-08-13,54,Female,West,Email Campaign
+CUST01910,2025-09-17,53,Male,North,Social Media
+CUST01911,2024-03-07,57,Female,East,Social Media
+CUST01912,2025-02-28,41,Female,South,Referral
+CUST01913,2025-07-12,32,Male,North,Email Campaign
+CUST01914,2024-05-01,40,Male,East,Referral
+CUST01915,2024-01-13,51,Female,Central,Organic Search
+CUST01916,2025-04-09,18,Other,West,Social Media
+CUST01917,2024-05-30,38,Female,North,Social Media
+CUST01918,2025-12-25,52,Female,Central,Paid Ads
+CUST01919,2025-03-22,45,Male,Central,Referral
+CUST01920,2025-01-19,35,Male,West,Email Campaign
+CUST01921,2025-04-01,29,Female,West,Paid Ads
+CUST01922,2024-05-16,21,Male,West,Social Media
+CUST01923,2025-01-28,47,Male,East,Organic Search
+CUST01924,2025-02-02,49,Female,South,Email Campaign
+CUST01925,2024-10-29,37,Other,East,Referral
+CUST01926,2024-09-29,44,Other,Central,Referral
+CUST01927,2025-12-12,30,Female,South,Organic Search
+CUST01928,2024-08-06,35,Male,South,Referral
+CUST01929,2024-11-05,56,Male,West,Email Campaign
+CUST01930,2024-11-06,37,Female,East,Email Campaign
+CUST01931,2024-09-14,54,Female,South,Referral
+CUST01932,2025-01-01,39,Male,South,Organic Search
+CUST01933,2024-07-07,41,Other,North,Paid Ads
+CUST01934,2025-02-08,36,Male,East,Referral
+CUST01935,2024-01-21,40,Male,West,Organic Search
+CUST01936,2024-09-08,66,Male,North,Paid Ads
+CUST01937,2024-05-15,36,Male,West,Paid Ads
+CUST01938,2024-02-06,44,Female,West,Referral
+CUST01939,2025-05-17,46,Female,East,Social Media
+CUST01940,2025-06-05,75,Other,North,Referral
+CUST01941,2024-05-12,18,Male,South,Organic Search
+CUST01942,2025-03-27,34,Female,West,Organic Search
+CUST01943,2025-07-31,29,Other,West,Paid Ads
+CUST01944,2025-11-17,36,Male,East,Social Media
+CUST01945,2025-05-11,38,Male,North,Paid Ads
+CUST01946,2025-02-02,35,Female,West,Paid Ads
+CUST01947,2025-11-08,18,Other,North,Paid Ads
+CUST01948,2025-11-21,62,Female,North,Email Campaign
+CUST01949,2024-11-22,35,Other,South,Social Media
+CUST01950,2025-02-11,18,Female,East,Referral
+CUST01951,2024-04-24,53,Male,North,Email Campaign
+CUST01952,2024-08-24,38,Other,North,Referral
+CUST01953,2025-11-07,46,Female,East,Paid Ads
+CUST01954,2025-11-08,44,Female,North,Paid Ads
+CUST01955,2025-01-06,64,Male,South,Social Media
+CUST01956,2025-06-03,29,Female,North,Paid Ads
+CUST01957,2025-01-30,35,Female,Central,Organic Search
+CUST01958,2025-04-30,28,Female,South,Organic Search
+CUST01959,2025-12-14,18,Male,Central,Social Media
+CUST01960,2025-08-22,37,Other,Central,Paid Ads
+CUST01961,2025-09-09,42,Female,North,Paid Ads
+CUST01962,2025-09-14,34,Male,West,Organic Search
+CUST01963,2024-08-08,46,Other,Central,Referral
+CUST01964,2024-09-03,38,Other,North,Organic Search
+CUST01965,2024-10-04,33,Female,South,Email Campaign
+CUST01966,2025-10-02,21,Male,South,Social Media
+CUST01967,2024-12-19,37,Male,East,Email Campaign
+CUST01968,2024-07-02,41,Other,East,Social Media
+CUST01969,2024-04-19,45,Other,South,Organic Search
+CUST01970,2025-10-20,19,Other,West,Referral
+CUST01971,2024-12-26,42,Other,South,Referral
+CUST01972,2024-03-21,55,Male,West,Social Media
+CUST01973,2025-01-05,49,Other,East,Email Campaign
+CUST01974,2025-12-02,65,Other,West,Paid Ads
+CUST01975,2025-01-21,18,Other,South,Email Campaign
+CUST01976,2024-05-13,29,Female,East,Social Media
+CUST01977,2024-10-11,36,Female,Central,Email Campaign
+CUST01978,2025-04-25,33,Male,North,Email Campaign
+CUST01979,2025-12-15,28,Male,West,Referral
+CUST01980,2025-11-15,38,Female,Central,Referral
+CUST01981,2025-07-30,40,Female,North,Email Campaign
+CUST01982,2025-10-09,38,Female,South,Organic Search
+CUST01983,2024-03-22,25,Other,East,Email Campaign
+CUST01984,2024-12-03,38,Male,East,Organic Search
+CUST01985,2024-01-08,37,Other,Central,Social Media
+CUST01986,2025-12-08,21,Male,Central,Social Media
+CUST01987,2025-05-15,19,Other,South,Email Campaign
+CUST01988,2024-06-01,47,Female,East,Social Media
+CUST01989,2025-12-23,34,Other,East,Organic Search
+CUST01990,2025-06-30,37,Male,Central,Organic Search
+CUST01991,2024-02-26,34,Male,South,Paid Ads
+CUST01992,2025-07-19,37,Male,South,Organic Search
+CUST01993,2025-10-02,43,Female,South,Organic Search
+CUST01994,2025-07-01,48,Male,Central,Social Media
+CUST01995,2025-07-13,19,Other,West,Email Campaign
+CUST01996,2025-05-24,38,Other,Central,Referral
+CUST01997,2025-12-21,29,Male,East,Paid Ads
+CUST01998,2024-05-10,30,Other,North,Organic Search
+CUST01999,2025-11-29,50,Male,West,Organic Search
+CUST02000,2025-09-23,33,Female,North,Referral
