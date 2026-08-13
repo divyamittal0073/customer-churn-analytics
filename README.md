@@ -1,4 +1,4 @@
-# 🎯 Customer Segmentation & Churn Risk Analytics Platform
+#  Customer Segmentation & Churn Risk Analytics Platform
 
 **RFM segmentation + machine-learning churn prediction, delivered as a business-ready Power BI dashboard.**
 
@@ -8,7 +8,7 @@ Identify your most valuable customers, spot who's about to churn before they do,
 
 ---
 
-## 📌 What this project does
+##  What this project does
 
 Most churn dashboards do one of two things: they segment customers (RFM) *or* they predict churn (ML) — rarely both, and rarely in a way a business team can actually act on. This project combines them into a single pipeline:
 
@@ -19,7 +19,7 @@ Most churn dashboards do one of two things: they segment customers (RFM) *or* th
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 flowchart LR
@@ -41,7 +41,7 @@ flowchart LR
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 customer-churn-analytics/
@@ -76,7 +76,7 @@ customer-churn-analytics/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Install dependencies
 ```bash
@@ -105,7 +105,7 @@ with your real tables (same column names), then re-run `python src/pipeline.py`.
 
 ---
 
-## 📊 Results (on the included synthetic dataset)
+##  Results (on the included synthetic dataset)
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@ can act on *before* a customer goes quiet.
 
 ---
 
-## 🧠 Methodology Notes
+##  Methodology Notes
 
 **RFM scoring** uses quantile binning (1–5 per dimension) so segments are always
 balanced regardless of the underlying data distribution, then maps R/F/M
@@ -149,7 +149,7 @@ are configurable in `churn_model.py`.
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Python** — pandas, NumPy for data engineering
 - **scikit-learn** — Decision Tree classifier, train/test split, metrics
@@ -160,7 +160,7 @@ are configurable in `churn_model.py`.
 
 ---
 
-## 🗺️ Possible Extensions
+##  Possible Extensions
 - Swap the rule-based RFM segments for K-Means clustering on R/F/M scores
 - Add SHAP values for per-customer churn explanations
 - Wire up a scheduled retrain + Power BI dataflow refresh
@@ -168,5 +168,5 @@ are configurable in `churn_model.py`.
 
 ---
 
-## 📄 License
+##  License
 MIT — see [LICENSE](LICENSE).
